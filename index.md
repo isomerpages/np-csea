@@ -52,4 +52,9 @@ sections:
         - title: Immersive
           description: Immerse yourself in internship at overseas startup companies and
             apply your skills and talents to make an impact.
+  - infopic:
+      title: 100+ Startup Community Partners
+      id: infopic
+      image: /images/partners.png
+      alt: Startup Community Partners
 ---
