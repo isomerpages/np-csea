@@ -22,4 +22,8 @@ overseas participants from other institutions.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HUmY4JmkykM?si=UKAmqQnSfCbdPG23"></iframe>
 </div>
-<p></p>
+<p>The Challenge offers students the opportunities to demonstrate their skills
+in developing their business idea with a global perspective while tackling
+real world problem statements and themes. The hands-on experience will
+deepen understanding of the startup culture in different cities and heighten
+their global perspectives.</p>
