@@ -17,9 +17,9 @@ sections:
         - title: Highlight A
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: SEA Unlocked fireside chat
+          description: ""
+          url: https://form.gov.sg/660532f84352a6f21eb26698
         - title: Page A
           description: Page A is important too
           url: /privacy/
