@@ -23,6 +23,7 @@ sections:
         - title: Learn More
           description: ""
           url: /geip-overseas/
+      variant: center
   - textcards:
       title: Our Stats
       id: textcards
