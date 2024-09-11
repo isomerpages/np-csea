@@ -2,5 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Home
     url: /
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Global Startup Challenge
+    collection: global-startup-challenge
