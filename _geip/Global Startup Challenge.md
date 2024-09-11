@@ -14,8 +14,12 @@ business coaches and industry mentors.</p>
 own business idea with a global perspective. Through hands-on experience
 and close mentorship from business coaches, teams will gain a deeper understanding
 of business planning, prototype building and pitching.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Speaker" src="/images/introduction .png">
+</div>
 <p>Students will participate in a 3.5 days Global Startup Hackathon with
 overseas participants from other institutions.</p>
+<p></p>
 <p></p>
 <h2><strong>GLOBAL STARTUP CHALLENGE</strong></h2>
 <p></p>
