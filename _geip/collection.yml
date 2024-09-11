@@ -2,7 +2,6 @@ collections:
   geip:
     output: true
     order:
-      - CSEA Homepage/.keep
       - About GEIP/.keep
       - About GEIP/GEIP Overview.md
       - About GEIP/GEIP Overseas.md
