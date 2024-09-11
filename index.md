@@ -40,7 +40,7 @@ sections:
           linktext: Learn more
           url: ""
   - infocols:
-      title: WHY SHOULD YOU APPLY ?
+      title: Why You Should Apply ?
       id: infocols
       infoboxes:
         - title: Global Exposure
