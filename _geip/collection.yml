@@ -2,11 +2,11 @@ collections:
   geip:
     output: true
     order:
-      - GEIP Testimonials/Testimonials.md
-      - GEIP Testimonials/.keep
       - About GEIP/.keep
       - About GEIP/GEIP Overview.md
       - About GEIP/GEIP Overseas.md
       - About GEIP/GEIP Remote.md
       - About GEIP/GEIP FAQ.md
+      - GEIP Testimonials/.keep
+      - GEIP Testimonials/Testimonials.md
       - GEIP Network/.keep
