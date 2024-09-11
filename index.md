@@ -23,4 +23,33 @@ sections:
         - title: Learn More
           description: ""
           url: /geip-overseas/
+  - textcards:
+      title: ""
+      id: textcards
+      cards:
+        - title: "17"
+          description: Cities in GEI Network
+          linktext: Learn more
+          url: ""
+        - title: "550"
+          description: Internships in various startups​
+          linktext: Learn more
+          url: ""
+        - title: "6"
+          description: Institutes of Higher Learning programme​
+          linktext: Learn more
+          url: ""
+  - infocols:
+      title: WHY SHOULD YOU APPLY ?
+      id: infocols
+      infoboxes:
+        - title: Global Exposure
+          description: Get a global startup perspective, build meaningful networks and
+            connections and gain cross-cultural exposure.
+        - title: Nurture Talents
+          description: Learn about innovation and entrepreneurship at the world’s leading
+            innovation hubs and startup ecosystems.
+        - title: Immersive
+          description: Immerse yourself in internship at overseas startup companies and
+            apply your skills and talents to make an impact.
 ---
