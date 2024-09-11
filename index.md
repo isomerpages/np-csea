@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Center for Southeast Asia
+description: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
 image: /images/isomer-logo.svg
 permalink: /
 notification: Boost your career! Gain global 🌍 experience and stand out. Apply
