@@ -11,8 +11,8 @@ sections:
       title: Center for  Southeast Asia
       subtitle: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: Apply Now
+      url: /apply/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
