@@ -2,4 +2,5 @@ collections:
   geip:
     output: true
     order:
+      - About GEIP/Overview.md
       - About GEIP/.keep
