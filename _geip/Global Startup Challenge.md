@@ -17,5 +17,6 @@ of business planning, prototype building and pitching.&nbsp;</p>
 <p>Students will participate in a 3.5 days Global Startup Hackathon with
 overseas participants from other institutions.</p>
 <p></p>
+<h2><strong>GLOBAL STARTUP CHALLENGE</strong></h2>
 <p></p>
 <p></p>
