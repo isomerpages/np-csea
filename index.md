@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Center for  Southeast Asia
       subtitle: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
-      background: /images/interns.png
+      background: /images/world map.png
       button: Apply Now
       url: https://www.geip.np.edu.sg/
       key_highlights:
