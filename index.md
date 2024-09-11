@@ -28,7 +28,7 @@ sections:
       id: textcards
       cards:
         - title: "17"
-          description: Cities in GEI Network
+          description: Cities in CSEA Network
           linktext: Learn more
           url: ""
         - title: "550"
