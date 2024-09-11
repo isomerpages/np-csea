@@ -12,7 +12,7 @@ sections:
       subtitle: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
       background: /images/hero-banner.png
       button: Apply Now
-      url: /apply/
+      url: https://www.geip.np.edu.sg/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
