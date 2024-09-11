@@ -1,0 +1,4 @@
+collections:
+  global-startup-challenge:
+    output: true
+    order: []
