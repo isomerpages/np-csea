@@ -2,8 +2,8 @@ logo: /images/Default/isomer-logo.svg
 links:
   - title: Home
     url: /
-  - title: GEIP
-    collection: geip
+  - title: About
+    collection: about
   - title: GLOBAL STARTUP CHALLENGE
     url: /global-startup-challenge/
   - title: Apply now
