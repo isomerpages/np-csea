@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - GEIP FELLOWS.md
       - EVENTS.md
       - CONTACT US.md
       - MEDIA.md
