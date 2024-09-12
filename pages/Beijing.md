@@ -11,9 +11,6 @@ and technical development. Top universities in the city attract, train
 and prepare young talent for various industry clusters. Among Beijing’s
 yearly 200,000 university graduates, many enter the startup scene, making
 the city a leading innovation centre.</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block; width: 1120px;" height="673" width="1111" alt="Beijing" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/beijing.jpg">
-</div>
 <h2><strong>STARTUP ECOSYSTEM</strong></h2>
 <p>Beijing’s startup ecosystem is ruled by AI, big data and analytics. The
 capital city houses 1,070 AI companies – over a quarter of China’s total.
