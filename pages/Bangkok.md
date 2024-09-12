@@ -49,50 +49,36 @@ culture, reasonable cost of living and sophisticated technological infrastructur
 <h2><strong>SOME OF OUR INTERNSHIP COMPANIES</strong></h2>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://laikapetfood.com/shop/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Laika" src="/images/Network Companies/BKC1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Laika</div><div class="isomer-card-description">Laika believes that dogs can enjoy HEALTHY and TASTY food while SAVING THE PLANET at the same time!
-
-After a lot of research into sustainable protein sources, Laika found that insect-based proteins have great potential for their nutritional benefits and are highly sustainable to the environment.</div><div class="isomer-card-link">Click here to visit site</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://laikapetfood.com/shop/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Laika" src="/images/Network Companies/BKC1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Laika</div><div class="isomer-card-description">Laika believes that dogs can enjoy healthy and tasty food while saving the planet at the same time!</div><div class="isomer-card-link">Click here for Laika</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://thefinlab.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="FinLab" src="/images/Network Companies/BKC2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<h3><strong><a href="https://laikapetfood.com/shop/" rel="noopener noreferrer nofollow" target="blank">Laika</a></strong></h3>
-<p><a href="https://laikapetfood.com/shop/" rel="noopener noreferrer nofollow" target="_blank">https://laikapetfood.com/shop/</a>
-</p>
-<p>Laika believes that dogs can enjoy HEALTHY and TASTY food while SAVING
-THE PLANET at the same time!</p>
-<p>After a lot of research into sustainable protein sources, Laika found
-that insect-based proteins have great potential for their nutritional benefits
-and are highly sustainable to the environment.</p>
-<h3><strong><a href="http://thefinlab.com/" rel="noopener noreferrer nofollow" target="blank">FinLab</a></strong></h3>
-<p><a href="https://laikapetfood.com/shop/" rel="noopener noreferrer nofollow" target="_blank">http://thefinlab.com/</a>
-</p>
-<p>The FinLab operates acceleration programs focused on propelling the growth
+<div class="isomer-card-title">FinLab</div>
+<div class="isomer-card-description">The FinLab operates acceleration programs focused on propelling the growth
 of innovative financial technology (FinTech) and technology companies and
-catalyses the digital transformation of businesses. Since inception in
-2015, The FinLab has run two acceleration cycles for FinTech companies.
-The third cycle of The FinLab’s programme focuses on helping SMEs on their
-digital transformation, including matching suitable and innovative FinTech
-and technology solutions with the needs of SMEs.</p>
-<h3><strong><a href="https://shopee.co.th/" rel="noopener noreferrer nofollow" target="blank">Shopee</a></strong></h3>
-<p><a href="https://laikapetfood.com/shop/" rel="noopener noreferrer nofollow" target="_blank">https://shopee.co.th</a>
-</p>
-<p>Shopee is the leading e-commerce platform in Southeast Asia. It is a platform
-tailored for the region, providing both buyers and sellers with an easy
-and secure online shopping experience.</p>
-<h3><strong><a href="https://techsauce.co/en/" rel="noopener noreferrer nofollow" target="blank"><br>Techsauce</a></strong></h3>
-<p><a href="https://techsauce.co/en/" rel="noopener noreferrer nofollow" target="_blank">https://techsauce.co/en/</a>
-</p>
-<p>Techsauce is the leading source of all tech and business news in Thailand
+catalyses the digital transformation of businesses.</div>
+<div class="isomer-card-link">Click here for Finlab</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://shopee.co.th" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shopee" src="/images/Network Companies/BKC3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shopee</div><div class="isomer-card-description">Shopee is the leading e-commerce platform in Southeast Asia. It is a platform tailored for the region, providing both buyers and sellers with an easy and secure online shopping experience.</div><div class="isomer-card-link">Click here for Shopee</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://techsauce.co/en/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Techsauce" src="/images/Network Companies/BKC4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Techsauce</div>
+<div class="isomer-card-description">Techsauce is the leading source of all tech and business news in Thailand
 and Southeast Asia. The company runs Techsauce Global Summit which is one
-of the leading tech conferences in Asia.</p>
+of the leading tech conferences in Asia.</div>
+<div class="isomer-card-link">Click here for Techsauce</div>
+</div>
+</a>
+</div>
+<hr>
+<h3></h3>
 <p></p>
