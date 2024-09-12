@@ -6,11 +6,11 @@ links:
     collection: about
   - title: GLOBAL STARTUP CHALLENGE
     url: /global-startup-challenge/
-  - title: Testimonials
-    url: /testimonials/
-  - title: Apply now
-    url: /apply-now/
   - title: Our Network
     collection: network
+  - title: Testimonials
+    url: /testimonials/
   - title: Others
     collection: others
+  - title: Apply now
+    url: /apply-now/
