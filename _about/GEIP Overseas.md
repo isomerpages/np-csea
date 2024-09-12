@@ -4,34 +4,42 @@ permalink: /geip-overseas/
 variant: tiptap
 description: ""
 ---
-<h1><strong>GEIP OVERSEAS</strong></h1>
 <p>With Covid-19 travel restrictions easing, GEIP overseas internships will
 resume for Bangkok, Ho Chi Minh City, Shanghai, Beijing and Jakarta with
 limited availability for September 2023 internships.</p>
 <hr>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/shanghai" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shanghai</div><div class="isomer-card-description">Shanghai has an impressive mix of global corporate innovation, startup co-working and investment hubs. Shanghai has quickly become a centre for technology and greater financial services.</div><div class="isomer-card-link">View more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/beijing/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Beijing" src="/images/Countries/Beijing.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Beijing</div>
+<div class="isomer-card-description">Beijing has a population of 22 million people. It is the capital city
+of China. In the technology space, Beijing is known as the hub for research
+and technical development. Top universities in the city attract, train
+and prepare young talent for various industry clusters.</div>
+<div class="isomer-card-link">View more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<h4><strong><a href="/shanghai/" rel="noopener noreferrer nofollow" target="_blank">Shanghai</a></strong></h4><a class="isomer-image-wrapper" href="/shanghai"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></a>
-<h4><strong><a href="/beijing/" rel="noopener noreferrer nofollow" target="_blank">Beijing</a></strong></h4><a class="isomer-image-wrapper" href="/beijing"><img style="width: 100%" height="auto" width="100%" alt="Beijing" src="/images/Countries/Beijing.png"></a>
-<h4><strong><a href="shenzhen/" rel="noopener noreferrer nofollow" target="_blank">Shenzhen</a></strong></h4>
-<h4><strong><a href="https://geip.wpenginepowered.com/network/ho-chi-minh-city/" rel="noopener noreferrer nofollow" target="_blank">Ho Chi Minh City</a></strong></h4>
-<h4><strong><a href="https://geip.wpenginepowered.com/network/jakarta/" rel="noopener noreferrer nofollow" target="_blank">Jakarta</a></strong></h4>
-<h4><strong><a href="https://geip.wpenginepowered.com/network/bangkok/" rel="noopener noreferrer nofollow" target="_blank">Bangkok</a></strong></h4>
+</a><a rel="noopener noreferrer nofollow" href="/shenzhen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shenzhen" src="/images/Countries/shenzhen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shenzhen</div><div class="isomer-card-description">Shenzhen’s population has exploded from 1 million people, 30 years ago to 12 million people today. It is a special economic zone backed by a fast growth mentality, easy access to manufacturing hubs and funding from government agencies. </div><div class="isomer-card-link">View more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="520" width="780" alt="" src="https://geip.wpenginepowered.com/wp-content/uploads/2020/05/GRT-event.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ho Chi Minh City" src="/images/Countries/HCM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ho Chi Minh City</div>
+<div class="isomer-card-description">Vietnam is now home to as many as 3000 startups. Ho Chi Minh City (HCMC)
+is one of two thriving startup cities in Vietnam. The city has a population
+of 7.5 million people and has played a key role in the regeneration of
+the country and the economy from the bottom up.</div>
+<div class="isomer-card-link">View more</div>
+</div>
+</a>
 </div>
 <h2><strong>ABOUT GEI</strong></h2>
 <p>GEI is a signature internship programme initiated by Ngee Ann Polytechnic
