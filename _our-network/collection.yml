@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Beijing.md
       - Ho Chi Minh City.md
       - Global Startup Challenge.md
       - Bangkok.md
