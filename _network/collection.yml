@@ -1,4 +1,5 @@
 collections:
   network:
     output: true
-    order: []
+    order:
+      - GEIP Cities.md
