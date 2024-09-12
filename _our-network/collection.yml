@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Jakarta.md
       - Shanghai.md
       - Shenzhen.md
       - Beijing.md
