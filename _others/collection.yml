@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - GLOBAL STARTUP FEST.md
       - DEMO DAY.md
       - GEIP FELLOWS.md
       - EVENTS.md
