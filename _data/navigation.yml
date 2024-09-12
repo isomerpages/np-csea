@@ -10,7 +10,7 @@ links:
     url: /testimonials/
   - title: Apply now
     url: /apply-now/
-  - title: Ournetwork
-    collection: ournetwork
+  - title: Countries
+    collection: countries
   - title: Others
     collection: others
