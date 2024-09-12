@@ -1,5 +1,5 @@
 collections:
-  geip:
+  about:
     output: true
     order:
       - Overview.md
