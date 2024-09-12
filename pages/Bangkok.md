@@ -47,8 +47,23 @@ culture, reasonable cost of living and sophisticated technological infrastructur
 </div>
 <hr>
 <h2><strong>SOME OF OUR INTERNSHIP COMPANIES</strong></h2>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://laikapetfood.com/shop/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Laika" src="/images/Network Companies/BKC1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Laika</div><div class="isomer-card-description">Laika believes that dogs can enjoy HEALTHY and TASTY food while SAVING THE PLANET at the same time!
+
+After a lot of research into sustainable protein sources, Laika found that insect-based proteins have great potential for their nutritional benefits and are highly sustainable to the environment.</div><div class="isomer-card-link">Click here to visit site</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Network Companies/BKC1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <h3><strong><a href="https://laikapetfood.com/shop/" rel="noopener noreferrer nofollow" target="blank">Laika</a></strong></h3>
 <p><a href="https://laikapetfood.com/shop/" rel="noopener noreferrer nofollow" target="_blank">https://laikapetfood.com/shop/</a>
