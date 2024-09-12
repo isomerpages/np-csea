@@ -10,24 +10,11 @@ third_nav_title: About GEIP
 resume for Bangkok, Ho Chi Minh City, Shanghai, Beijing and Jakarta with
 limited availability for September 2023 internships.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/Shanghai" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shanghai</div><div class="isomer-card-link">Shanghai</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="620" width="1024" alt="Shanghai" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/shanghai-1024x620.jpg">
-</div>
-<h4><strong><a href="https://geip.wpenginepowered.com/network/shanghai/" rel="noopener noreferrer nofollow" target="_blank">Shanghai</a></strong></h4>
+<h4><strong><a href="/shanghai/" rel="noopener noreferrer nofollow" target="_blank">Shanghai</a></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="620" width="1024" alt="Beijing" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/beijing-1024x620.jpg">
 </div>
