@@ -9,28 +9,27 @@ third_nav_title: About GEIP
 <p>With Covid-19 travel restrictions easing, GEIP overseas internships will
 resume for Bangkok, Ho Chi Minh City, Shanghai, Beijing and Jakarta with
 limited availability for September 2023 internships.</p>
+<hr>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/shanghai"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></a>
-<h4><strong><a href="/shanghai/" rel="noopener noreferrer nofollow" target="_blank">Shanghai</a></strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/Shanghai" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shanghai</div><div class="isomer-card-description">Shanghai has an impressive mix of global corporate innovation, startup co-working and investment hubs. Shanghai has quickly become a centre for technology and greater financial services.</div><div class="isomer-card-link">View more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="620" width="1024" alt="Beijing" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/beijing-1024x620.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
-<h4><strong><a href="https://geip.wpenginepowered.com/network/beijing/" rel="noopener noreferrer nofollow" target="_blank">Beijing</a></strong></h4>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="620" width="1024" alt="Shenzhen" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/shenzhen-1024x620.jpg">
 </div>
-<h4><strong><a href="https://geip.wpenginepowered.com/network/shenzhen/" rel="noopener noreferrer nofollow" target="_blank">Shenzhen</a></strong></h4>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="620" width="1024" alt="Ho Chi Minh" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/ho-chi-minh-1024x620.jpg">
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<h4><strong><a href="/shanghai/" rel="noopener noreferrer nofollow" target="_blank">Shanghai</a></strong></h4><a class="isomer-image-wrapper" href="/shanghai"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></a>
+<h4><strong><a href="/beijing/" rel="noopener noreferrer nofollow" target="_blank">Beijing</a></strong></h4><a class="isomer-image-wrapper" href="/beijing"><img style="width: 100%" height="auto" width="100%" alt="Beijing" src="/images/Countries/Beijing.png"></a>
+<h4><strong><a href="shenzhen/" rel="noopener noreferrer nofollow" target="_blank">Shenzhen</a></strong></h4>
 <h4><strong><a href="https://geip.wpenginepowered.com/network/ho-chi-minh-city/" rel="noopener noreferrer nofollow" target="_blank">Ho Chi Minh City</a></strong></h4>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="620" width="1024" alt="Jakarta" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/jakarta-1024x620.jpg">
-</div>
 <h4><strong><a href="https://geip.wpenginepowered.com/network/jakarta/" rel="noopener noreferrer nofollow" target="_blank">Jakarta</a></strong></h4>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="620" width="1024" alt="Bangkok" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/bangkok-1-1024x620.jpg">
-</div>
 <h4><strong><a href="https://geip.wpenginepowered.com/network/bangkok/" rel="noopener noreferrer nofollow" target="_blank">Bangkok</a></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block;" height="520" width="780" alt="" src="https://geip.wpenginepowered.com/wp-content/uploads/2020/05/GRT-event.jpg">
