@@ -2,7 +2,7 @@ collections:
   network:
     output: true
     order:
-      - GEIP COLLECTIVES.md
-      - PARTNERS.md
-      - COMPANIES.md
       - GEIP CITIES.md
+      - COMPANIES.md
+      - PARTNERS.md
+      - GEIP COLLECTIVES.md
