@@ -24,8 +24,8 @@ and technical development. Top universities in the city attract, train
 and prepare young talent for various industry clusters.</div>
 <div class="isomer-card-link">View more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/shenzhen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shenzhen" src="/images/Countries/shenzhen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shenzhen</div><div class="isomer-card-description">Shenzhen’s population has exploded from 1 million people, 30 years ago to 12 million people today. It is a special economic zone backed by a fast growth mentality, easy access to manufacturing hubs and funding from government agencies. </div><div class="isomer-card-link">View more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/shenzhen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shenzhen" src="/images/Countries/shenzhen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shenzhen</div><div class="isomer-card-description">Shenzhen’s population has exploded from 1 million people, 30 years ago to 12 million people today. It is a special economic zone backed by a fast growth mentality, easy access to manufacturing hubs and funding from government agencies.</div><div class="isomer-card-link">View more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ho-chi-minh-city/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ho Chi Minh City" src="/images/Countries/HCM.png">
@@ -37,6 +37,20 @@ and prepare young talent for various industry clusters.</div>
 is one of two thriving startup cities in Vietnam. The city has a population
 of 7.5 million people and has played a key role in the regeneration of
 the country and the economy from the bottom up.</div>
+<div class="isomer-card-link">View more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/jakarta" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jakarta" src="/images/Countries/Jakarta.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jakarta</div><div class="isomer-card-description">Indonesia is Southeast Asia’s biggest economy and Jakarta is its heart. The city has a population of more than 10 million people and is home to the majority of the country’s startup community. </div><div class="isomer-card-link">View more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/bangkok/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bangkok" src="/images/Countries/Bangkok.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bangkok</div>
+<div class="isomer-card-description">In recent years, the Thai government has turbocharged its drive to transform
+the economy and bolster technological capabilities, with a goal to be ranked
+in the top 30 of the Global Innovation Index by 2030.</div>
 <div class="isomer-card-link">View more</div>
 </div>
 </a>
