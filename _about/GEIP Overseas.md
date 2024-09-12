@@ -8,7 +8,6 @@ description: ""
 resume for Bangkok, Ho Chi Minh City, Shanghai, Beijing and Jakarta with
 limited availability for September 2023 internships.</p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/shanghai" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shanghai</div><div class="isomer-card-description">Shanghai has an impressive mix of global corporate innovation, startup co-working and investment hubs. Shanghai has quickly become a centre for technology and greater financial services.</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/beijing/" class="isomer-card">
 <div class="isomer-card-image">
@@ -39,7 +38,7 @@ of 7.5 million people and has played a key role in the regeneration of
 the country and the economy from the bottom up.</div>
 <div class="isomer-card-link">View more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/jakarta" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jakarta" src="/images/Countries/Jakarta.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jakarta</div><div class="isomer-card-description">Indonesia is Southeast Asia’s biggest economy and Jakarta is its heart. The city has a population of more than 10 million people and is home to the majority of the country’s startup community. </div><div class="isomer-card-link">View more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/jakarta" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jakarta" src="/images/Countries/Jakarta.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jakarta</div><div class="isomer-card-description">Indonesia is Southeast Asia’s biggest economy and Jakarta is its heart. The city has a population of more than 10 million people and is home to the majority of the country’s startup community.</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/bangkok/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -55,15 +54,20 @@ in the top 30 of the Global Innovation Index by 2030.</div>
 </div>
 </a>
 </div>
+<hr>
 <h2><strong>ABOUT GEI</strong></h2>
 <p>GEI is a signature internship programme initiated by Ngee Ann Polytechnic
 in 2016. It provides students with internship opportunities to experience
 life in vibrant startup ecosystems abroad.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRT.png">
+</div>
 <p>The programme has expanded its reach to help groom young entrepreneurial
 talents from participating polytechnics and universities in Singapore.</p>
 <p>Through creating opportunities in the entrepreneurship and innovation
 arena, GEI helps to groom future entrepreneurs, business leaders and innovators
 for Singapore.</p>
+<hr>
 <h2><strong>ENTREPRENEURIAL DEVELOPMENT</strong></h2>
 <p>A unique feature of GEI is the Entrepreneurial Development Programme created
 for interns. Interns will have the opportunity to attend customised workshops
@@ -84,8 +88,6 @@ required in startup environments.</p>
 <li>
 <p>Programming</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Social Media Marketing</p>
 </li>
@@ -99,57 +101,68 @@ required in startup environments.</p>
 <p>Language Class</p>
 </li>
 </ul>
+<hr>
 <h2><strong>INTERNSHIP PLACEMENT PROCESS</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Apply &amp; Send in Resume" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-1.png">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Step 1 <strong>Apply &amp; Send in Resume</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h2><strong>01</strong></h2>
-<p><strong>Apply &amp; Send in Resume</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Interview with Institution" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-2.png">
+</details>
+<details class="isomer-details">
+<summary>Step 2 <strong>Interview with Institution</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h2><strong>02</strong></h2>
-<p><strong>Interview with Institution</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Chat with Country Manager" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-3.png">
+</details>
+<details class="isomer-details">
+<summary>Step 3 <strong>Chat with Country Manager</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h2><strong>03</strong></h2>
-<p><strong>Chat with Country Manager</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Interview with Company" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-4.png">
+</details>
+<details class="isomer-details">
+<summary>Step 4 <strong>Interview with Company</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h2><strong>04</strong></h2>
-<p><strong>Interview with Company</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Attend Development Workshop" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-5.png">
+</details>
+<details class="isomer-details">
+<summary>Step 5 <strong>Attend Development Workshop</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h2><strong>05</strong></h2>
-<p><strong>Attend Development Workshop</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Final Placement" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-6.png">
+</details>
+<details class="isomer-details">
+<summary>Step 6 <strong>Final Placement</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h2><strong>06</strong></h2>
-<p><strong>Final Placement</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Administrative Preparation" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-7.png">
+</details>
+<details class="isomer-details">
+<summary>Step 7 <strong>Administrative Preparation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h2><strong>07</strong></h2>
-<p><strong>Administrative Preparation</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Ready to Fly" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-8.png">
+</details>
+<details class="isomer-details">
+<summary>Step 8 <strong>Ready to Fly</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h2><strong>08</strong></h2>
-<p><strong>Ready to Fly</strong>
+</details>
+</div>
+<hr>
+<p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px 0px 20px auto; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; max-width: 100%; height: auto; border-radius: 0px; box-shadow: none; display: block;" height="auto" width="100%" alt="Ready to Fly" src="https://geip.sg/wp-content/uploads/2019/10/placement-step-8.png">
-</div>
 <p></p>
