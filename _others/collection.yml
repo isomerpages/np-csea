@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - EVENTS.md
       - CONTACT US.md
       - MEDIA.md
