@@ -1,4 +1,5 @@
 collections:
   apply-now:
     output: true
-    order: []
+    order:
+      - Apply Now.md
