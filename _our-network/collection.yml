@@ -2,4 +2,5 @@ collections:
   our-network:
     output: true
     order:
+      - Global Startup Challenge.md
       - Bangkok.md
