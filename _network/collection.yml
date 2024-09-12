@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - GEIP COLLECTIVES.md
-      - Partners.md
+      - PARTNERS.md
       - Companies.md
       - GEIP Cities.md
