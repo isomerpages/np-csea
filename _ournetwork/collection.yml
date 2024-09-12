@@ -1,5 +1,5 @@
 collections:
-  our-network:
+  ournetwork:
     output: true
     order:
       - Singapore.md
