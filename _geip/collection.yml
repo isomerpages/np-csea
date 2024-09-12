@@ -2,7 +2,6 @@ collections:
   geip:
     output: true
     order:
-      - Apply Now.md
       - Global Startup Challenge.md
       - About GEIP/.keep
       - About GEIP/GEIP Overview.md
