@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - DEMO DAY.md
       - GEIP FELLOWS.md
       - EVENTS.md
       - CONTACT US.md
