@@ -10,10 +10,16 @@ the economy and bolster technological capabilities, with a goal to be ranked
 in the top 30 of the Global Innovation Index by 2030. Over the years, numerous
 foreign MNCs and major tech companies have set up shop or invested in the
 country.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Countries/Bangkok2.png">
+</div>
+<hr>
 <h2><strong>STARTUP ECOSYSTEM</strong></h2>
 <p>Bangkok is frequently cited as one of the best startup destinations in
 Asia. On a global scale, the city takes the seventh spot, thanks to a welcoming
 culture, reasonable cost of living and sophisticated technological infrastructure.</p>
+<hr>
 <h2><strong>TOP INDUSTRY VERTICALS</strong></h2>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -33,10 +39,17 @@ culture, reasonable cost of living and sophisticated technological infrastructur
 <p>Mobile</p>
 </li>
 </ul>
-<p></p>
+<hr>
 <h2><strong>ESTIMATED LIVING COSTS​</strong></h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Countries/Bangkok3.png">
+</div>
+<hr>
 <h2><strong>SOME OF OUR INTERNSHIP COMPANIES</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Network Companies/BKC1.png">
+</div>
 <h3><strong><a href="https://laikapetfood.com/shop/" rel="noopener noreferrer nofollow" target="blank">Laika</a></strong></h3>
 <p><a href="https://laikapetfood.com/shop/" rel="noopener noreferrer nofollow" target="_blank">https://laikapetfood.com/shop/</a>
 </p>
