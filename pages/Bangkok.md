@@ -10,9 +10,6 @@ the economy and bolster technological capabilities, with a goal to be ranked
 in the top 30 of the Global Innovation Index by 2030. Over the years, numerous
 foreign MNCs and major tech companies have set up shop or invested in the
 country.</p>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; height: auto; max-width: 100%; margin: 0px; padding: 0px; border: medium; outline: 0px; font-size: 20px; font-family: inherit; vertical-align: middle; border-radius: 0px; box-shadow: none; display: inline-block; width: 1120px;" height="673" width="1111" alt="Bangkok" src="https://geip.wpenginepowered.com/wp-content/uploads/2019/09/bangkok-1.jpg">
-</div>
 <h2><strong>STARTUP ECOSYSTEM</strong></h2>
 <p>Bangkok is frequently cited as one of the best startup destinations in
 Asia. On a global scale, the city takes the seventh spot, thanks to a welcoming
