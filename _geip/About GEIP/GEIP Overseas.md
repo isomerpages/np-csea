@@ -11,7 +11,7 @@ resume for Bangkok, Ho Chi Minh City, Shanghai, Beijing and Jakarta with
 limited availability for September 2023 internships.</p>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/Shanghai" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shanghai</div><div class="isomer-card-description">Shanghai has an impressive mix of global corporate innovation, startup co-working and investment hubs. Shanghai has quickly become a centre for technology and greater financial services.</div><div class="isomer-card-link">View more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/shanghai" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shanghai</div><div class="isomer-card-description">Shanghai has an impressive mix of global corporate innovation, startup co-working and investment hubs. Shanghai has quickly become a centre for technology and greater financial services.</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
