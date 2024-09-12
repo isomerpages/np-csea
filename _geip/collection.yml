@@ -2,7 +2,7 @@ collections:
   geip:
     output: true
     order:
-      - GEIP FAQ.md
-      - GEIP Remote.md
-      - GEIP Overseas.md
       - GEIP Overview.md
+      - GEIP Overseas.md
+      - GEIP Remote.md
+      - GEIP FAQ.md
