@@ -4,7 +4,6 @@ permalink: /bangkok/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Bangkok</strong></h1>
 <p>In recent years, the Thai government has turbocharged its drive to transform
 the economy and bolster technological capabilities, with a goal to be ranked
 in the top 30 of the Global Innovation Index by 2030. Over the years, numerous
