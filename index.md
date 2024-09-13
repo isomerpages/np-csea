@@ -31,15 +31,15 @@ sections:
         - title: "17"
           description: Cities in CSEA Network
           linktext: Learn more
-          url: ""
+          url: /geip-cities/
         - title: "550"
           description: Internships in various startups​
           linktext: Learn more
-          url: ""
+          url: /companies/
         - title: "6"
           description: Institutes of Higher Learning programme​
           linktext: Learn more
-          url: ""
+          url: /partners/
   - infocols:
       title: Why You Should Apply ?
       id: infocols
