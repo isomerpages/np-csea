@@ -59,6 +59,7 @@ sections:
       button: Click to find out more
       url: /apply-now/
       image: /images/GEIP/IMG_0262.jpg
+      alt: Reactor
   - infopic:
       title: 100+ Startup Community Partners
       id: infopic
