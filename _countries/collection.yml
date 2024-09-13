@@ -2,6 +2,7 @@ collections:
   countries:
     output: true
     order:
+      - Hangzhou.md
       - Singapore.md
       - Jakarta.md
       - Shanghai.md
