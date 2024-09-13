@@ -55,7 +55,6 @@ venture during their internship semester.</p>
 <p>Ngee Ann Polytechnic students who complete all required Learning Units
 will receive a Minor in Entrepreneurship.</p>
 <p></p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
