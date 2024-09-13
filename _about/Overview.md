@@ -12,3 +12,8 @@ and are keen in developing their entrepreneurial skills.</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/apply-now/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEIP/WhatsApp_Image_2024_09_07_at_21_52_10.jpg">
+</div>
+<p></p>
