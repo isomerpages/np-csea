@@ -49,5 +49,51 @@ to ASEAN and global connections.</p>
 </div>
 <p></p>
 <hr>
+<h2><strong><a href="/global-startup-challenge/" rel="noopener noreferrer nofollow" target="_blank"><u>GLOBAL STARTUP CHALLENGE</u></a></strong></h2>
+<p>Global Startup Challenge gives students a chance to develop a business
+venture during their internship semester.</p>
+<p>Ngee Ann Polytechnic students who complete all required Learning Units
+will receive a Minor in Entrepreneurship.</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Global Startup Hack" src="/images/GEIP/WhatsApp_Image_2024_09_07_at_21_52_10.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Global Startup Hack</div>
+<div class="isomer-card-description">(Pre-internship) A 3-day global hackathon with students from overseas.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Venture Development" src="/images/GEIP/WechatIMG43.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Venture Development</div>
+<div class="isomer-card-description">(During internship) Build a business venture as a team through a series
+of workshops and mentorship.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Pitch" src="/images/GEIP/WechatIMG44.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">The Pitch</div>
+<div class="isomer-card-description">(After internship) Pitch your venture idea a to a panel of industry experts
+at our Showcase and Demo Days.</div>
+</div>
+</div>
+</div>
+<p></p>
+<hr>
 <p></p>
 <p></p>
