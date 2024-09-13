@@ -4,6 +4,10 @@ permalink: /how-to-apply/
 variant: tiptap
 description: ""
 ---
+<p>Since 2016, GEIP has helped groom young entrepreneurial talents from participating
+polytechnics and universities in Singapore. Follow these steps to apply
+for a place in GEIP.</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Step 1 - Apply &amp; Send in Resume</summary>
@@ -56,6 +60,11 @@ offer</p>
 </details>
 </div>
 <hr>
-<h1></h1><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
+<p></p>
+<p>Please upload a <strong>text version of your resume</strong> in the online
+application. <strong>Do not use an image file</strong>, as you may experience
+delays. If you encounter any issues, please email <strong>AskGIA@np.edu.sg</strong>
+</p>
 <p></p>
 <p></p>
