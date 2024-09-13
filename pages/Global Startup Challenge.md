@@ -71,7 +71,7 @@ and validating their business idea.&nbsp;</p>
 <p></p>
 <hr>
 <p></p>
-<h2><strong>SHOWCASE AND <br>DEMO DAYS</strong></h2>
+<h2><strong>SHOWCASE AND DEMO DAYS</strong></h2>
 <p>Teams will pitch their business idea to a panel of judges at Showcase
 Day. Shortlisted teams will be invited for a second pitch at Demo Day,
 to a panel of potential investors.&nbsp;</p>
