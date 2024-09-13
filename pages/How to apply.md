@@ -56,6 +56,6 @@ offer</p>
 </details>
 </div>
 <hr>
-<h1></h1>
+<h1></h1><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
 <p></p>
 <p></p>
