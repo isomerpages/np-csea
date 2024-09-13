@@ -2,6 +2,7 @@ collections:
   countries:
     output: true
     order:
+      - London.md
       - Helsinki.md
       - Yogyakarta.md
       - Manila.md
