@@ -105,56 +105,56 @@ required in startup environments.</p>
 <h2><strong>INTERNSHIP PLACEMENT PROCESS</strong></h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Step 1 <strong>Apply &amp; Send in Resume</strong>
+<summary>Step 1 - <strong>Apply &amp; Send in Resume</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 2 <strong>Interview with Institution</strong>
+<summary>Step 2 - <strong>Interview with Institution</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 3 <strong>Chat with Country Manager</strong>
+<summary><strong>Step 3 </strong>- <strong>Chat with Country Manager</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 4 <strong>Interview with Company</strong>
+<summary><strong>Step 4 -</strong>  <strong>Interview with Company</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 5 <strong>Attend Development Workshop</strong>
+<summary><strong>Step 5 -</strong>  <strong>Attend Development Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 6 <strong>Final Placement</strong>
+<summary><strong>Step 6 -</strong>  <strong>Final Placement</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 7 <strong>Administrative Preparation</strong>
+<summary><strong>Step 7 -</strong>  <strong>Administrative Preparation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 8 <strong>Ready to Fly</strong>
+<summary><strong>Step 8 -</strong>  <strong>Ready to Fly</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
