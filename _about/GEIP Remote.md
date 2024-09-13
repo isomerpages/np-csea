@@ -137,5 +137,5 @@ you for startup life.</p>
 </details>
 </div>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/apply-now/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/apply-now/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
 <p></p>
