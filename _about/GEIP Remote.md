@@ -11,11 +11,11 @@ experience of building a business venture through the Global Startup Challenge.&
 Ann Polytechnic, you need to be selected by your school to apply for GEIP.
 Please check with your school or email us for more information.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png">
 </div>
 <p></p>
 <hr>
-<h2><strong>GEIP <br>REMOTE INTERNSHIPS</strong></h2>
+<h2><strong>GEIP REMOTE INTERNSHIPS</strong></h2>
 <p>Remote internships with overseas startups expose students to startup ecosystems
 in global innovation hubs. Students will gain global perspectives and cross-cultural
 connections from the comfort of home.</p>
@@ -24,7 +24,6 @@ connections from the comfort of home.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Remote.png">
 </div>
 <hr>
-<p></p>
 <h2><strong>HOW DO REMOTE INTERNSHIPS WORK?</strong></h2>
 <p>Students work according to their host company’s time zone, which gives
 them the flexibility to manage their internship responsibilities with their
@@ -39,13 +38,15 @@ language courses.</p>
 </div>
 <p></p>
 <hr>
-<p></p>
 <h2><strong>STARTUP INTERNSHIPS</strong></h2>
 <p>Internships with startups and innovation hubs provide students with the
 opportunity to experience entrepreneurial culture with greater exposure
 to ASEAN and global connections.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ro4.png">
+</div>
 <p></p>
 <hr>
 <p></p>
