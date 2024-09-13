@@ -53,11 +53,12 @@ sections:
         - title: Immersive
           description: Immerse yourself in internship at overseas startup companies and
             apply your skills and talents to make an impact.
-  - infobar:
+  - infopic:
       title: HOW TO APPLY
-      id: infobar
+      id: infopic
       button: Click here to find out more
       url: /apply-now/
+      image: /images/GEIP/IMG_0262.jpg
   - infopic:
       title: 100+ Startup Community Partners
       id: infopic
