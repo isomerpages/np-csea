@@ -45,6 +45,7 @@ expect Manila’s startup community to grow rapidly in size.</p>
 <p></p>
 <h2><strong>SOME OF OUR INTERNSHIP COMPANIES</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://coins.ph" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Coins.ph" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Coins.ph</div><div class="isomer-card-description">Coins.ph a Southeast Asian fintech company that enables anyone, including those without a bank account, to easily access financial services directly from their phone. </div><div class="isomer-card-link">Click here for Coins.ph</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://coins.ph" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Coins.ph" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Coins.ph</div><div class="isomer-card-description">Coins.ph a Southeast Asian fintech company that enables anyone, including those without a bank account, to easily access financial services directly from their phone.</div><div class="isomer-card-link">Click here for Coins.ph</div></div></a>
 </div>
+<hr>
 <p></p>
