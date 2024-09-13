@@ -18,8 +18,9 @@ of business planning, prototype building and pitching.&nbsp;</p>
 overseas participants from other institutions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Demo1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GEIP/WechatIMG41.jpg">
 </div>
+<p></p>
 <hr>
 <h2><strong>GLOBAL STARTUP CHALLENGE</strong></h2>
 <p></p>
