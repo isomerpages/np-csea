@@ -95,5 +95,47 @@ at our Showcase and Demo Days.</div>
 </div>
 <p></p>
 <hr>
+<h2><strong>GEIP APPLICATION PROCESS</strong></h2>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Step 1 - Apply</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Submit your application through our online platform.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Step 2 - CSEA Panel Interview</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tell us why you are a good fit for GEIP.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Step 3 - Acceptance and Allocation</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Once you have been accepted you will be matched to startups.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Step 4 - Interview with Startups</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Meet with startups for interviews and secure your internship.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Step 5 - Final Placement</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Confirmation of your internship placement with the startup.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Step 6 - Begin Global Startup Challenge</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Take part in the Global Hackathon before internship begins, to prepare
+you for startup life.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/apply-now/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
 <p></p>
