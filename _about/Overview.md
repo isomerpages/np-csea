@@ -68,5 +68,11 @@ This is achieved through our signature programme, Global Entrepreneurial
 Internship (GEI), which immerses students in global startup ecosystems
 through internships.</p>
 <hr>
+<h2><strong>OUR TEAM</strong></h2>
+<hr>
+<h2><strong>OUR ROLE</strong></h2>
+<hr>
+<h2><strong>OUR CORE SERVICES</strong></h2>
+<p></p>
 <p></p>
 <p></p>
