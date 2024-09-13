@@ -56,7 +56,7 @@ sections:
   - infopic:
       title: How To Apply
       id: infopic
-      button: Click here to find out more
+      button: Click to find out more
       url: /apply-now/
       image: /images/GEIP/IMG_0262.jpg
   - infopic:
