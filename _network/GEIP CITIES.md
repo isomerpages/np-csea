@@ -58,7 +58,7 @@ array of talent valuable for technology-based startups.</div>
 <hr>
 <h2><strong>ASIA</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/beijing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Beijing" src="/images/Countries/Beijing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Beijing</div><div class="isomer-card-description">Beijing has a population of 22 million people. It is the capital city of China. In the technology space, Beijing is known as the hub for research and technical development. Top universities in the city attract, train and prepare young talent for various industry clusters. </div><div class="isomer-card-link">View more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/beijing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Beijing" src="/images/Countries/Beijing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Beijing</div><div class="isomer-card-description">Beijing has a population of 22 million people. It is the capital city of China. In the technology space, Beijing is known as the hub for research and technical development. Top universities in the city attract, train and prepare young talent for various industry clusters.</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/hangzhou/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -88,24 +88,40 @@ technology and greater financial services. By 2020, the Chinese government
 aims for Shanghai to become an International Financial Center.</div>
 <div class="isomer-card-link">View more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/shenzhen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shenzhen" src="/images/Countries/shenzhen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shenzhen</div><div class="isomer-card-description">Shenzhen’s population has exploded from 1 million people, 30 years ago to 12 million people today. It is a special economic zone backed by a fast growth mentality, easy access to manufacturing hubs and funding from government agencies. </div><div class="isomer-card-link">View more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/shenzhen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shenzhen" src="/images/Countries/shenzhen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shenzhen</div><div class="isomer-card-description">Shenzhen’s population has exploded from 1 million people, 30 years ago to 12 million people today. It is a special economic zone backed by a fast growth mentality, easy access to manufacturing hubs and funding from government agencies.</div><div class="isomer-card-link">View more</div></div></a>
 </div>
 <hr>
 <h2><strong>REST OF THE WORLD</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/helsinki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Helsinki" src="/images/Countries/helsinki.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Helsinki</div><div class="isomer-card-description">Helsinki’s startup environment is booming. The capital city of Finland plays host to one of the largest startup clusters in the Nordic region</div><div class="isomer-card-link">View more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/london/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="London" src="/images/Countries/london.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">London</div>
+<div class="isomer-card-description">London is known as a hub for startup development. It is the third largest
+tech hub in the world and a leading hub in Europe, known for its vibrant
+community.</div>
+<div class="isomer-card-link">View more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/silicon-valley/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Silicon Valley" src="/images/Countries/Silicon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Silicon Valley</div><div class="isomer-card-description">Silicon Valley is the center for high technology, innovation and social media. It is not home to many of the world’s largest high-tech corporations</div><div class="isomer-card-link">View more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/sydney/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sydney" src="/images/Countries/sydney.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sydney</div>
+<div class="isomer-card-description">Sydney has a population of 4.6 million people. The city is home to a range
+of startup accelerator and incubators, which have resulted in a rapid expansion
+of micro businesses.</div>
+<div class="isomer-card-link">View more</div>
+</div>
+</a>
 </div>
 <hr>
 <p></p>
