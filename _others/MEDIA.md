@@ -39,7 +39,7 @@ to say about GEI.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ministry of Education</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/big-boost-for-business-internships-at-ngee-ann-polytechnic" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ngee Ann Polytechnic" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ngee Ann Polytechnic </div><div class="isomer-card-link">View more</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/big-boost-for-business-internships-at-ngee-ann-polytechnic" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ngee Ann Polytechnic" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ngee Ann Polytechnic</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.opengovasia.com/singapore-and-vietnam-to-collaborate-to-boost-technology-start-ups/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
