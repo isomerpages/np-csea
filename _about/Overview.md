@@ -51,5 +51,22 @@ on the requirements of participating institutions. Students intern in major
 innovation hubs such as Bangkok, Ho Chi Minh, Hanoi, Jakarta, Manila, Beijing,
 Shanghai, Shenzhen, Hong Kong, Hyderabad, Dubai, Helsinki, London, Silicon
 Valley, and Sydney.</p>
+<hr>
+<h2><strong>ABOUT GIA</strong></h2>
+<p>GIA is an appointed partner of the Innovators Academy, a key pillar of
+the Singapore Economic Development Board’s Global Innovation Alliance initiative.
+At GIA, we are co-creators of a future where smart cities, young startups
+and a new generation of digital natives positively impact our future lifestyle,
+society, environment and economy.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GIA.png">
+</div>
+<p>Our mission is to expose Singapore students to innovation and entrepreneurship
+in innovation hubs around the world and emerging markets in the region.
+This is achieved through our signature programme, Global Entrepreneurial
+Internship (GEI), which immerses students in global startup ecosystems
+through internships.</p>
+<hr>
 <p></p>
 <p></p>
