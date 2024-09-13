@@ -58,9 +58,7 @@ offer</p>
 <p>Pack your luggage, get your passport, and get ready to fly high</p>
 </div>
 </details>
-</div>
-<hr>
-<p></p><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
+</div><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
 <p></p>
 <p>Please upload a <strong>text version of your resume</strong> in the online
 application. <strong>Do not use an image file</strong>, as you may experience
