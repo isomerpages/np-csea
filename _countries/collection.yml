@@ -2,6 +2,7 @@ collections:
   countries:
     output: true
     order:
+      - Silicon Valley.md
       - Sydney.md
       - London.md
       - Helsinki.md
