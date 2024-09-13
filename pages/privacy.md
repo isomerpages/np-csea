@@ -24,15 +24,17 @@ variant: markdown
 
 Your Personal Data refers to any data from which you, as an individual, may be identified. This may include, but not limited to, your name, address, telephone numbers, email addresses, date of birth, gender, nationality, and personal identification number, photographs and audio-visual material.
 
-**Collection of Personal Data  
-**NP may collect your Personal Data in the following ways:
+**Collection of Personal Data**
+
+NP may collect your Personal Data in the following ways:
 
 When you register or submit forms for or use any of NP’s services such as courses, scholarships, financial assistance or events;  
 When you interact with our customer service officers;  
 When you provide feedback and request that we contact you.
 
-**Purposes for the Collection, Use and Disclosure of Your Personal Data  
-**Generally, NP collects, uses and discloses your Personal Data for the following purposes:
+**Purposes for the Collection, Use and Disclosure of Your Personal Data**
+
+Generally, NP collects, uses and discloses your Personal Data for the following purposes:
 
 1.  Administering, processing or responding to your requests or queries;
 2.  Managing your relationship with the Polytechnic;
