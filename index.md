@@ -53,14 +53,11 @@ sections:
         - title: Immersive
           description: Immerse yourself in internship at overseas startup companies and
             apply your skills and talents to make an impact.
-  - infocols:
+  - infobar:
       title: HOW TO APPLY
-      id: infocols
-      linktext: Click here to apply
+      id: infobar
+      button: Click here to find out more
       url: /apply-now/
-      infoboxes:
-        - title: Find out more
-          description: ""
   - infopic:
       title: 100+ Startup Community Partners
       id: infopic
