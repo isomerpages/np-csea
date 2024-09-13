@@ -2,6 +2,7 @@ collections:
   countries:
     output: true
     order:
+      - Manila.md
       - Hong Kong.md
       - Hangzhou.md
       - Singapore.md
