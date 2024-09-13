@@ -54,7 +54,7 @@ sections:
           description: Immerse yourself in internship at overseas startup companies and
             apply your skills and talents to make an impact.
   - infopic:
-      title: HOW TO APPLY
+      title: How To Apply
       id: infopic
       button: Click here to find out more
       url: /apply-now/
