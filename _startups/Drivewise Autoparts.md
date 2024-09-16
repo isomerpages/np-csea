@@ -4,6 +4,10 @@ permalink: /drivewise-autoparts/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start2.png">
+</div>
 <p>Drivewise Autoparts is the leading online automotive parts platform that
 brings automotive parts to you anywhere, anytime.</p>
 <p>At Drivewise Autoparts, car owners are able to take ownership via direct
