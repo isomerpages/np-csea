@@ -2,6 +2,7 @@ collections:
   startups:
     output: true
     order:
+      - Vessels.md
       - Alphaese.md
       - Drivewise Autoparts.md
       - Imaginary Films.md
