@@ -19,7 +19,7 @@ world.</p>
 </div>
 <p></p>
 <hr>
-<p></p>
+<h2><strong>STUDENTS TESTIMONIALS</strong></h2>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
