@@ -17,8 +17,13 @@ best products for their precious pals, hence pawfoo ensures that their
 snacks are of high quality and excellent nutritional value by getting vets
 to review their recipes. Check them out on their website and social media
 channels!</p>
-<p></p>
+<hr>
 <h2><strong>FOUNDER</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder2.png">
+</div>
+<p></p>
 <p><strong>Contact</strong>
 </p>
 <p><a href="mailto:pawfoosg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">pawfoosg@gmail.com</a>
