@@ -126,6 +126,67 @@ the world approaches post-secondary education.</div>
 to provide them with a networking platform for their attendees.</div>
 <div class="isomer-card-link">Visit Deal Room Events</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://arcticstartup.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arctic Startup" src="/images/Network Companies/HSC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arctic Startup </div><div class="isomer-card-description">Arctic Startup is an independent technology blog that reports on startups and growth entrepreneurship from the Nordic and Baltic countries. Every year, the organization a startup conference called Arctic 15.</div><div class="isomer-card-link">Visit Arctic Startup</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://arcticstartup.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arctic Startup" src="/images/Network Companies/HSC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arctic Startup</div><div class="isomer-card-description">Arctic Startup is an independent technology blog that reports on startups and growth entrepreneurship from the Nordic and Baltic countries. Every year, the organization a startup conference called Arctic 15.</div><div class="isomer-card-link">Visit Arctic Startup</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://bitscopic.com" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bitscopic" src="/images/Network Companies/SVC1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bitscopic</div>
+<div class="isomer-card-description">CFTE is an education platform supported by senior leaders from the largest
+institutions, startups and universities. The organization aims to address
+the needs of professionals in finance and technologists to upskill in a
+rapidly changing industry.</div>
+<div class="isomer-card-link">Visit Bitscopic</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://crucialbits.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Crucial Bits" src="/images/Network Companies/SVC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crucial Bits</div><div class="isomer-card-description">Crucial Bits Is a Silicon Valley based software technology company that is building innovative software produces and delivers software engineering services.</div><div class="isomer-card-link">Visit Crucial Bits</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://colortokens.com" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ColorTokens" src="/images/Network Companies/SVC3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ColorTokens</div>
+<div class="isomer-card-description">ColorTokens offers a new approach to administer than traditional, static
+layer-centric approached. ColorTokens’ Next Generation Software Defined
+Security protects information and organizations with a cost effective,
+robust, compliant security solution.</div>
+<div class="isomer-card-link">Visit ColorTokens</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://makewonder.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Wonder Workshop" src="/images/Network Companies/SVC4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Wonder Workshop</div><div class="isomer-card-description">Wonder Workshop was founded in 2012 specialising in robotics and education. The startup has a mission to inspire every home and classroom to be a home of innovation.</div><div class="isomer-card-link">Visit Wonder Workshop</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://chinaccelerator.com" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinaccelerator" src="/images/Network Companies/SHC1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Chinaccelerator</div>
+<div class="isomer-card-description">Chinaccelerator is a mentorship-drive programme assisting internet startups
+from around the world cross borders, into China. Chinaccelerator offers
+guidance, training and resources from mentors, partners and investors.</div>
+<div class="isomer-card-link">Visit Chinaccelerator</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://shopee.co.th" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shopee" src="/images/Network Companies/BKC3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shopee</div><div class="isomer-card-description">Shopee is the leading e-commerce platform in Southeast Asia. It is a platform tailored for the region, providing both buyers and sellers with an easy and secure online shopping experience.</div><div class="isomer-card-link">Visit Shopee</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://techsauce.co/en/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Techsauce" src="/images/Network Companies/BKC4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Techsauce</div>
+<div class="isomer-card-description">Techsauce is the leading source of all tech and business news in Thailand
+and Southeast Asia. The company runs Techsauce Global Summit which is one
+of the leading tech conferences in Asia.</div>
+<div class="isomer-card-link">Visit Techsauce</div>
+</div>
+</a>
 </div>
 <p></p>
