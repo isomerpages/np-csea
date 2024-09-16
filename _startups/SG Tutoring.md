@@ -35,7 +35,7 @@ to learn and grow in this journey together with them.&nbsp;</p>
 <details class="isomer-details">
 <summary>Website</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://thesgtutoring.com%20" rel="noopener noreferrer nofollow" target="_blank">https://thesgtutoring.com</a>
+<p><a href="https://thesgtutoring.com" rel="noopener noreferrer nofollow" target="_blank">https://thesgtutoring.com</a>
 </p>
 </div>
 </details>
