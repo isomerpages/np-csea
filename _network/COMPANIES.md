@@ -83,7 +83,7 @@ Singapore &amp; Southeast Asia. The company organises regular angel investment
 workshops, curated startup pitch sessions and provide syndication services.</div>
 <div class="isomer-card-link">Visit AngelCentral</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="X0PA AI" src="/images/Network Companies/LNC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">X0PA AI </div><div class="isomer-card-description">X0PA AI is the leading SAAS hiring and talent acquisition platform for companies who choose to make a difference with great people at greater competition. </div><div class="isomer-card-link">Visit X0PA AI </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="X0PA AI" src="/images/Network Companies/LNC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">X0PA AI</div><div class="isomer-card-description">X0PA AI is the leading SAAS hiring and talent acquisition platform for companies who choose to make a difference with great people at greater competition.</div><div class="isomer-card-link">Visit X0PA AI</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://shopee.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -98,6 +98,21 @@ with an easy, secure and fast online shopping experience through strong
 payment and fulfilment support.</div>
 <div class="isomer-card-link">Visit Shopee</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="http://thefinlab.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Finlab" src="/images/Network Companies/BKC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Finlab</div><div class="isomer-card-description">The FinLab operates acceleration programs focused on propelling the growth of innovative financial technology (FinTech) and technology companies and catalyses the digital transformation of businesses. Since inception in 2015, The FinLab has run two acceleration cycles for FinTech companies.</div><div class="isomer-card-link">Visit The Finlab</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.cialfo.co" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cialfo" src="/images/Network Companies/SGC3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cialfo</div>
+<div class="isomer-card-description">Cialfo started in 2016 with one mission: to increase transparency and
+accessibility of college information. The team is made up of former college
+counselors, educators, and technology professionals working to change how
+the world approaches post-secondary education.</div>
+<div class="isomer-card-link">Visit Cialfo</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://coins.ph" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Coins.ph" src="/images/Network Companies/manila2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Coins.ph</div><div class="isomer-card-description">Coins is a Southeast Asian fintech company that enables anyone, including those without a bank account, to easily access financial services directly from their phone. </div><div class="isomer-card-link">Visit Coins.ph</div></div></a>
 </div>
 <p></p>
