@@ -13,7 +13,6 @@ students with the chance to immerse themselves in international work cultures
 and industry practices.</p>
 <hr>
 <h2><strong>WHAT WE OFFER</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEIP/WechatIMG43.jpg">
 </div>
