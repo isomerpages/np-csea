@@ -2,15 +2,15 @@ collections:
   startups:
     output: true
     order:
-      - Carbon.md
-      - Curatable Co.md
-      - SG Tutoring.md
-      - Vessels.md
-      - Alphaese.md
-      - Drivewise Autoparts.md
-      - Imaginary Films.md
-      - FATFreq.md
-      - Pawfoo.md
-      - SocialLive.md
-      - Soosh.md
       - Sector SG.md
+      - Soosh.md
+      - SocialLive.md
+      - Pawfoo.md
+      - FATFreq.md
+      - Imaginary Films.md
+      - Drivewise Autoparts.md
+      - Alphaese.md
+      - Vessels.md
+      - SG Tutoring.md
+      - Curatable Co.md
+      - Carbon.md
