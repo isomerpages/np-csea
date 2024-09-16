@@ -26,16 +26,48 @@ channels!</p>
 <p></p>
 <p><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Email</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:pawfoosg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">pawfoosg@gmail.com</a>
 </p>
-<p><a href="mailto:pawfoosg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">https://pawfoo.co</a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Website</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://pawfoo.co/" rel="noopener noreferrer nofollow" target="_blank">https://pawfoo.co</a>
 </p>
+</div>
+</details>
+</div>
 <p><strong>Social</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Instagram</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.instagram.com/pawfoo.co/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/pawfoo.co/?hl=en</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Facebook</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.facebook.com/Pawfoo-101017308976635" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/Pawfoo-101017308976635</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>LinkedIn</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.linkedin.com/company/pawfoo/?viewAsMember=true" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/company/pawfoo/?viewAsMember=true</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
