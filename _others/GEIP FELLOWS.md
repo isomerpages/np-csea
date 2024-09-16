@@ -144,7 +144,7 @@ disconnected than ever before. Loneliness looms over youths as they struggle
 to connect and build real bonds with the people around them.</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tutoring" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tutoring</div><div class="isomer-card-description">Start Up Story SGtutoring is a one-stop educational platform for personalized learning and a Singapore home tuition agency. We find the best home tutor based on your requirements such as experience, budget, and time. </div><div class="isomer-card-link">More Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tutoring" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tutoring</div><div class="isomer-card-description">Start Up Story SGtutoring is a one-stop educational platform for personalized learning and a Singapore home tuition agency. We find the best home tutor based on your requirements such as experience, budget, and time.</div><div class="isomer-card-link">More Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
