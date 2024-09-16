@@ -101,7 +101,7 @@ who’ve represented over 300+ brands.ocialLive enables businesses to sell
 on any livestream platform by providing access to experienced livestreamers
 who’ve represented over 300+ brands.</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://pawfoo.co" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pawfoo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pawfoo</div><div class="isomer-card-description">Start Up Story Behind pawfoo are food science, business, and computer science students, dedicated to making nutritious, affordable, and sustainable pet snacks for your furry friends. </div><div class="isomer-card-link">Visit Pawfoo</div></div></a>
 </div>
 <hr>
 <h2><strong>ALUMNI COMMITTEE</strong></h2>
