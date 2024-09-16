@@ -45,15 +45,14 @@ trying to assure his family of this major decision.</p>
 <details class="isomer-details">
 <summary>Website</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="mailto:Ivancwh94@gmail.com" rel="noopener noreferrer nofollow" target="_blank">https://www.fatfreq.com/</a>
+<p><a href="https://www.fatfreq.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.fatfreq.com/</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Phone</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="tel:96416999%20" class="elementor-button-link elementor-button elementor-size-sm" rel="noopener noreferrer nofollow" target="_blank">96416999</a>
-</p>
+<p>96416999</p>
 </div>
 </details>
 </div>
