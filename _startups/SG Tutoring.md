@@ -22,6 +22,13 @@ helping parents to find suitable home tutors for their child.&nbsp;&nbsp;</p>
 <p>Our vision to empower students globally stays true every single step of
 our way till today. We care about your child’s success and it’s our mission
 to learn and grow in this journey together with them.&nbsp;</p>
+<hr>
+<h2><strong>FOUNDER</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder5.png">
+</div>
+<p></p>
 <p><strong>Contact</strong>
 </p>
 <p><a href="https://thesgtutoring.com%20" rel="noopener noreferrer nofollow" target="_blank">https://thesgtutoring.com</a>
