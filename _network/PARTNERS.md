@@ -38,37 +38,37 @@ endeavours.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Step 1 Email us to introduce your startup</summary>
+<summary>Step 1 - Email us to introduce your startup</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 2 Connect to a Country Manager</summary>
+<summary>Step 2 - Connect to a Country Manager</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 3 Prepare a Job Description for Intern</summary>
+<summary>Step 3 - Prepare a Job Description for Intern</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 4 Interview candidates through Country Manager</summary>
+<summary>Step 4 - Interview candidates through Country Manager</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 5 Confirm Internship Placement</summary>
+<summary>Step 5 - Confirm Internship Placement</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 6 Internship Programme Begins</summary>
+<summary>Step 6 - Internship Programme Begins</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
