@@ -30,14 +30,34 @@ figures, beyond mediocrity.&nbsp;</p>
 <p></p>
 <p><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Email</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:joshua@imaginaryfilms.co" rel="noopener noreferrer nofollow" target="_blank">joshua@imaginaryfilms.co</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Website</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:joshua@imaginaryfilms.co" rel="noopener noreferrer nofollow" target="_blank">https://imaginaryfilms.co/</a>
 </p>
+</div>
+</details>
+</div>
 <p><strong>Social</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Instagram</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://instagram.com/imaginaryfilms.co" rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/imaginaryfilms.co</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
 <p>
 <br>
 </p>
