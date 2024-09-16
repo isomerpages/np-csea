@@ -11,6 +11,13 @@ description: ""
 <p>Alphaese helps to build effective and efficient web solutions for SMEs
 and non-profits. They guide businesses on their digital journeys, and help
 them build their digital strategy and solutions!</p>
+<hr>
+<h2><strong>FOUNDER</strong></h2>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder6.png">
+</div>
 <p><strong>Contact</strong>
 </p>
 <p><a href="mailto:info@alphaese.com" rel="noopener noreferrer nofollow" target="_blank">info@alphaese.com</a>
