@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CaffeeBox" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CaffeeBox" src="/images/DemoDay/Demo8_1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ specialty coffee. The service focuses on customisability and personalisation.</d
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Fishmonger" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="The Fishmonger" src="/images/DemoDay/Demo7.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -35,7 +35,7 @@ sellers, whilst maintaining the freshness and quality of products.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WeActive" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="WeActive" src="/images/DemoDay/Demo6.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -47,7 +47,7 @@ to give back to society.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="runwayG" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="runwayG" src="/images/DemoDay/Demo5.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ to the consumers’ preferences.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tave" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Tave" src="/images/DemoDay/Demo4.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -72,7 +72,7 @@ from others.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TableTalk" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="TableTalk" src="/images/DemoDay/Demo9.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -84,7 +84,7 @@ themselves through meaningful and intentional conversations.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Curatable" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Curatable" src="/images/DemoDay/Demo10.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -96,7 +96,7 @@ Creative Work.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mise En Place" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mise En Place" src="/images/DemoDay/Demo11.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -108,7 +108,7 @@ will experience the joy of cooking in 15 minutes or less.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alpha Beta Tank" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Alpha Beta Tank" src="/images/DemoDay/Demo1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -119,7 +119,7 @@ will experience the joy of cooking in 15 minutes or less.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Remedy" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Remedy" src="/images/DemoDay/Demo2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -132,7 +132,7 @@ cafes without losing customer loyalty.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Social Pitstop" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="The Social Pitstop" src="/images/DemoDay/Demo3.png">
 </div>
 </div>
 <div class="isomer-card-body">
