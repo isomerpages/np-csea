@@ -18,6 +18,13 @@ helps our talents to improve their skills and continue learning outside
 of their niche.</p>
 <p>Some of our previous clients include, but are not limited to; Redefine
 Wellness, The FinLab by UOB, GohBakeACake, Reactor and Rocket Digital PL.</p>
+<hr>
+<h2><strong>FOUNDER</strong></h2>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder3.png">
+</div>
 <p><strong>Contact</strong>
 </p>
 <p><a href="mailto:Contact@curatable.co" rel="noopener noreferrer nofollow" target="_blank">Contact@curatable.co</a>
