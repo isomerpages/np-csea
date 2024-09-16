@@ -21,7 +21,13 @@ really gets you thinking. Action cards keep things silly and fun because
 fun is part of the relationship-building process too! We have built a community
 on Instagram where we post relatable and convicting content as well. Vessels
 envisions a day when meaningful conversations become a “TableTalk” norm.</p>
+<hr>
+<h2><strong>FOUNDER</strong></h2>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder7.png">
+</div>
 <p><strong>Contact</strong>
 </p>
 <p><a href="mailto:Isaiah.vessels.co@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Isaiah.vessels.co@gmail.com</a>
