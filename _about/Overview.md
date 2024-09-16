@@ -71,6 +71,44 @@ through internships.</p>
 <h2><strong>OUR TEAM</strong></h2>
 <hr>
 <h2><strong>OUR ROLE</strong></h2>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Establish collaborations with major innovation hubs and startups around
+the world.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Expose Singapore students to a diverse range of innovation and startup
+activities overseas.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Empower students from polytechnics and universities with internship opportunities
+to nurture their entrepreneurial ambitions.</div>
+</div>
+</div>
+</div>
+<p></p>
 <hr>
 <h2><strong>OUR CORE SERVICES</strong></h2>
 <p></p>
