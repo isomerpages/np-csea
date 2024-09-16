@@ -20,16 +20,40 @@ them build their digital strategy and solutions!</p>
 </div>
 <p><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Email</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:info@alphaese.com" rel="noopener noreferrer nofollow" target="_blank">info@alphaese.com</a>
 </p>
-<p><a href="mailto:info@alphaese.com" rel="noopener noreferrer nofollow" target="_blank">https://alphaese.com/</a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Website</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://alphaese.com/" rel="noopener noreferrer nofollow" target="_blank">https://alphaese.com/</a>
 </p>
-<p><a href="tel:(+65)%208801%209162%20" class="elementor-button-link elementor-button elementor-size-sm" rel="noopener noreferrer nofollow" target="_blank">(+65) 8801 9162</a>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Phone</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>88019162</p>
+</div>
+</details>
+</div>
 <p><strong>Social</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Telegram</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://t.me/alphaese" rel="noopener noreferrer nofollow" target="_blank">https://t.me/alphaese</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
 <p>
 <br>
 </p>
