@@ -2,6 +2,7 @@ collections:
   startups:
     output: true
     order:
+      - Pawfoo.md
       - SocialLive.md
       - Soosh.md
       - Sector SG.md
