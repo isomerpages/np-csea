@@ -154,8 +154,4 @@ offer</p>
 </div>
 </details>
 </div>
-<hr>
-<p>
-<br>
-</p>
 <p></p>
