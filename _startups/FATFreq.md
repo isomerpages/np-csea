@@ -34,18 +34,50 @@ trying to assure his family of this major decision.</p>
 <p></p>
 <p><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Email</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:Ivancwh94@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Ivancwh94@gmail.com</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Website</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:Ivancwh94@gmail.com" rel="noopener noreferrer nofollow" target="_blank">https://www.fatfreq.com/</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Phone</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="tel:96416999%20" class="elementor-button-link elementor-button elementor-size-sm" rel="noopener noreferrer nofollow" target="_blank">96416999</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
 <p><strong>Social</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Facebook</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.facebook.com/FATfreq/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/FATfreq/</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Instagram</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.instagram.com/fatfreq/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/fatfreq/</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
