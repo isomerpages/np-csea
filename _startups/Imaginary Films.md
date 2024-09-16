@@ -21,6 +21,12 @@ it is character and attitude that qualifies a person.</p>
 <p>Upon these values, Imaginary Films help brands, organizations and individuals
 tell their stories through film, with impact in mind. Beyond numbers, beyond
 figures, beyond mediocrity.&nbsp;</p>
+<hr>
+<h2><strong>FOUNDER</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder11.png">
+</div>
 <p></p>
 <p><strong>Contact</strong>
 </p>
