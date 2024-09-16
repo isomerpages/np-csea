@@ -59,11 +59,10 @@ offer</p>
 </div>
 </details>
 </div>
-<p></p><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
 <p></p>
 <p>Please upload a <strong>text version of your resume</strong> in the online
 application. <strong>Do not use an image file</strong>, as you may experience
 delays. If you encounter any issues, please email <strong>AskGIA@np.edu.sg</strong>
-</p>
+</p><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
 <p></p>
 <p></p>
