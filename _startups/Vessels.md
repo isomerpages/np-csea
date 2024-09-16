@@ -24,18 +24,32 @@ envisions a day when meaningful conversations become a “TableTalk” norm.</p>
 <hr>
 <h2><strong>FOUNDER</strong></h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder7.png">
 </div>
 <p><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Email</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:Isaiah.vessels.co@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Isaiah.vessels.co@gmail.com</a>
 </p>
+</div>
+</details>
+</div>
 <p><strong>Social</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Instagram</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.instagram.com/v.essels/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/v.essels/</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
 <p>
 <br>
 </p>
