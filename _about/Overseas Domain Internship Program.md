@@ -12,9 +12,11 @@ includes Multinational Corporations (MNCs), Small and Medium Enterprises
 students with the chance to immerse themselves in international work cultures
 and industry practices.</p>
 <hr>
+<h2><strong>WHAT WE OFFER</strong></h2>
 <p></p>
-<p><strong>What We Offer:</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEIP/WechatIMG43.jpg">
+</div>
 <ul>
 <li>
 <p><strong>Global Exposure:</strong> Students are placed in well-established
@@ -32,10 +34,16 @@ engineering, or technology, our internships span multiple domains, offering
 diverse opportunities for students to hone their skills.</p>
 </li>
 </ul>
-<p><strong>Placement Process:</strong> We collaborate with schools to identify
-placements that best match students’ career goals. Schools continue to
-source companies and assign students, while CSEA facilitates connections
-and helps secure placements.</p>
+<hr>
+<h2><strong>PLACEMENT PROCESS</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEIP/IMG_9999.jpg">
+</div>
+<p></p>
+<p>We collaborate with schools to identify placements that best match students’
+career goals. Schools continue to source companies and assign students,
+while CSEA facilitates connections and helps secure placements.</p>
 <p>It is recommended that schools negotiate a minimum stipend of S$300 per
 month to ensure fair compensation for students.</p>
 <p><strong>Our Role in Supporting Internships:</strong>
@@ -53,9 +61,12 @@ a valuable learning experience.</p>
 </li>
 </ul>
 <hr>
+<h2><strong>VISA &amp; FUNDING SUPPORT</strong></h2>
 <p></p>
-<p><strong>Visa and Funding Support:</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEIP/WhatsApp_Image_2024_09_07_at_21_52_10.jpg">
+</div>
+<p></p>
 <ul>
 <li>
 <p><strong>Visa Facilitation:</strong> CSEA will assist with the visa process
@@ -74,9 +85,7 @@ for iPREP funding.</p>
 </li>
 </ul>
 <p>CSEA is dedicated to providing students with real-world, international
-experience that prepares them for success in today’s globalized economy.
-<br>
-</p>
+experience that prepares them for success in today’s globalized economy.</p>
 <p>NP will provide funding for all internships to South-East Asia, China
 and India for students who qualify for GRT/iPREP funding. Singaporean and
 SPR are eligible for GRT funding and Singaporean only for iPREP.</p>
