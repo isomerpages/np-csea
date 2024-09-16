@@ -4,6 +4,10 @@ permalink: /alphaese/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start3.png">
+</div>
 <p>Alphaese helps to build effective and efficient web solutions for SMEs
 and non-profits. They guide businesses on their digital journeys, and help
 them build their digital strategy and solutions!</p>
