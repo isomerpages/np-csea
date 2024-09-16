@@ -21,14 +21,26 @@ represented over 300+ brands.</p>
 <p></p>
 <p><strong>Contact</strong>
 </p>
-<p><a href="https://sociallivemedia.com/" rel="noopener noreferrer nofollow" target="_blank">https://sociallivemedia.com/</a>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Phone</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="tel:+65%208772%207427" class="elementor-button-link elementor-button elementor-size-sm" rel="noopener noreferrer nofollow" target="_blank">+65 8772 7427</a>
 </p>
+</div>
+</details>
+</div>
 <p><strong>Social</strong>
 </p>
-<p><a href="https://instagram.com/trysociallive" rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/trysociallive</a>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Facebook</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.facebook.com/trysociallive" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/trysociallive</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
