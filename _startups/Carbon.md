@@ -24,7 +24,20 @@ and breathable. The ultimate urban mask.</p>
 <p>
 <br><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Email</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:carbonmasks.hq@gmail.com" rel="noopener noreferrer nofollow" target="_blank">carbonmasks.hq@gmail.com</a>
 </p>
-<p><a href="mailto:carbonmasks.hq@gmail.com" rel="noopener noreferrer nofollow" target="_blank">https://carbon-masks.com/</a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Website</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://carbon-masks.com/" rel="noopener noreferrer nofollow" target="_blank">https://carbon-masks.com/</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
