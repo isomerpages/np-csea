@@ -26,7 +26,21 @@ Wellness, The FinLab by UOB, GohBakeACake, Reactor and Rocket Digital PL.</p>
 </div>
 <p><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Email</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:Contact@curatable.co" rel="noopener noreferrer nofollow" target="_blank">Contact@curatable.co</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Website</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:Contact@curatable.co" rel="noopener noreferrer nofollow" target="_blank">https://www.curatable.co/</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
