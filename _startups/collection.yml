@@ -1,5 +1,4 @@
 collections:
   startups:
     output: true
-    order:
-      - SectorSg.md
+    order: []
