@@ -25,7 +25,13 @@ Shophouse, Chinatown.&nbsp;</p>
 direct 2nd year in the course. However, he decided to take the entrepreneurship
 route instead, seizing a golden opportunity to run Fatfreq instead, while
 trying to assure his family of this major decision.</p>
+<hr>
 <h2><strong>FOUNDER</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder10.png">
+</div>
+<p></p>
 <p><strong>Contact</strong>
 </p>
 <p><a href="mailto:Ivancwh94@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Ivancwh94@gmail.com</a>
