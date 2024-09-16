@@ -4,6 +4,10 @@ permalink: /curatable-co/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start7.png">
+</div>
 <p>Curable.co is a Design &amp; Communications platform where companies get
 matched with talents for all their creative needs. Talents are vetted and
 screened by a panel to determine their skill set and how they can best
