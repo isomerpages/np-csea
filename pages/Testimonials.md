@@ -332,7 +332,7 @@ channels, I learnt to tailor business strategies for the Vietnamese market.</p>
 </details>
 </div>
 <p></p>
-<p></p>
+<hr>
 <p></p>
 <p></p>
 <p></p>
