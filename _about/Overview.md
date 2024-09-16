@@ -69,6 +69,45 @@ Internship (GEI), which immerses students in global startup ecosystems
 through internships.</p>
 <hr>
 <h2><strong>OUR TEAM</strong></h2>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Anna Yeow" src="/images/About/About1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Anna Yeow</div>
+<div class="isomer-card-description">Head, CSEA</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="Joanna_CHIA@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joanna Chia" src="/images/About/About2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joanna Chia</div><div class="isomer-card-description">Country Manager: China (Beijing, Shanghai, Suzhou, Shenzhen) Hong Kong, Helsinki, Hyderabad, Dubai, Sydney, London</div><div class="isomer-card-link">Joanna_CHIA@np.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Shareeda_MORRISON@np.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shareeda Morrison" src="/images/About/About3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Shareeda Morrison</div>
+<div class="isomer-card-description">Country Manager: Ho Chi Minh City, Hanoi</div>
+<div class="isomer-card-link">Shareeda_MORRISON@np.edu.sg</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="gordon_ho@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gordon Ho" src="/images/About/About4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gordon Ho</div><div class="isomer-card-description">Country Manager: Bangkok</div><div class="isomer-card-link">gordon_ho@np.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="liu_jinglin@np.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Liu Jinglin" src="/images/About/About5.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Liu Jinglin</div>
+<div class="isomer-card-description">Admin Executive</div>
+<div class="isomer-card-link">liu_jinglin@np.edu.sg</div>
+</div>
+</a>
+</div>
 <hr>
 <h2><strong>OUR ROLE</strong></h2>
 <p></p>
