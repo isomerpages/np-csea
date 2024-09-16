@@ -4,6 +4,10 @@ permalink: /soosh/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start9.png">
+</div>
 <p>Soosh is a monthly subscription digital marketing platform for startups
 and SME based in Singapore and Hong Kong. Soosh’s goal is to disrupt the
 traditional marketing agencies that are widely available whose quotation
