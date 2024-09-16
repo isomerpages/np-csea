@@ -102,6 +102,49 @@ on any livestream platform by providing access to experienced livestreamers
 who’ve represented over 300+ brands.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://pawfoo.co" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pawfoo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pawfoo</div><div class="isomer-card-description">Start Up Story Behind pawfoo are food science, business, and computer science students, dedicated to making nutritious, affordable, and sustainable pet snacks for your furry friends.</div><div class="isomer-card-link">Visit Pawfoo</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.fatfreq.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="FATfreq" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">FATfreq</div>
+<div class="isomer-card-description">Start Up Story Ivan graduated from Ngee Ann Polytechnic in 2017 with a
+Mechanical Engineering Diploma, Minoring in Business management. He was
+part of the pioneer batch of GEIP that went to Silicon Valley in 2016,
+interning in Kaneshka Designs.</div>
+<div class="isomer-card-link">Visit FATfreq</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://imaginaryfilms.co/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Imaginary Films" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Imaginary Films</div><div class="isomer-card-description">Start Up Story Joshua graduated from Ngee Ann Polytechnic in 2017 from the School of Films Media Studies  FMS. He was part of the pioneer batch of GEIP that went to Silicon Valley in 2016.</div><div class="isomer-card-link">Visit Imaginary Films</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://www.drivewiseautoparts.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drivewise Autoparts" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drivewise Autoparts</div>
+<div class="isomer-card-description">Drivewise Autoparts is the leading online automotive parts platform that
+brings automotive parts to you anywhere, anytime.</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Alphaese" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Alphaese</div><div class="isomer-card-description">Alphaese helps to build effective and efficient web solutions for SMEs and non-profits. They guide businesses on their digital journeys, and help them build their digital strategy and solutions!</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vessels" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Vessels</div>
+<div class="isomer-card-description">Start Up Story Heart-to-Heart moments are hard to come by these days.
+With increasing digitalization, we have somehow become more emotionally
+disconnected than ever before. Loneliness looms over youths as they struggle
+to connect and build real bonds with the people around them.</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a>
 </div>
 <hr>
 <h2><strong>ALUMNI COMMITTEE</strong></h2>
