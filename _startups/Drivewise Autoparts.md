@@ -25,9 +25,28 @@ the sole distributor for Hankook Frixa Brake Systems in the Singapore market.</p
 <p></p>
 <p><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Email</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:brandontan@stanns.com.sg" rel="noopener noreferrer nofollow" target="_blank">brandontan@stanns.com.sg</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Website</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="mailto:brandontan@stanns.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.drivewiseautoparts.com/</a>
 </p>
-<p><a href="tel:96570038%20" class="elementor-button-link elementor-button elementor-size-sm" rel="noopener noreferrer nofollow" target="_blank">96570038</a>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Phone</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>96570038</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
