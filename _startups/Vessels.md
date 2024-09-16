@@ -4,6 +4,10 @@ permalink: /vessels/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start4.png">
+</div>
 <p>Heart-to-Heart moments are hard to come by these days. With increasing
 digitalization, we have somehow become more emotionally disconnected than
 ever before. Loneliness looms over youths as they struggle to connect and
