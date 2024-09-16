@@ -31,7 +31,19 @@ to learn and grow in this journey together with them.&nbsp;</p>
 <p></p>
 <p><strong>Contact</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Website</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://thesgtutoring.com%20" rel="noopener noreferrer nofollow" target="_blank">https://thesgtutoring.com</a>
 </p>
-<p><a href="tel:+65%2082886801" class="elementor-button-link elementor-button elementor-size-sm" rel="noopener noreferrer nofollow" target="_blank">+65 82886801</a>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Phone</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>82886801</p>
+</div>
+</details>
+</div>
+<p></p>
