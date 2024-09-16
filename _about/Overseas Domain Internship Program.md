@@ -11,6 +11,8 @@ includes Multinational Corporations (MNCs), Small and Medium Enterprises
 (SMEs), Banks, Hotel Groups, and other leading organizations, providing
 students with the chance to immerse themselves in international work cultures
 and industry practices.</p>
+<hr>
+<p></p>
 <p><strong>What We Offer:</strong>
 </p>
 <ul>
@@ -50,9 +52,8 @@ to match students with companies that align with their interests and ensure
 a valuable learning experience.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<hr>
+<p></p>
 <p><strong>Visa and Funding Support:</strong>
 </p>
 <ul>
@@ -73,9 +74,7 @@ for iPREP funding.</p>
 </li>
 </ul>
 <p>CSEA is dedicated to providing students with real-world, international
-experience that prepares them for success in today’s globalized economy.</p>
-<p>
-<br>
+experience that prepares them for success in today’s globalized economy.
 <br>
 </p>
 <p>NP will provide funding for all internships to South-East Asia, China
