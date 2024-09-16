@@ -41,7 +41,7 @@ figures, beyond mediocrity.&nbsp;</p>
 <details class="isomer-details">
 <summary>Website</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="mailto:joshua@imaginaryfilms.co" rel="noopener noreferrer nofollow" target="_blank">https://imaginaryfilms.co/</a>
+<p><a href="https://imaginaryfilms.co/" rel="noopener noreferrer nofollow" target="_blank">https://imaginaryfilms.co/</a>
 </p>
 </div>
 </details>
