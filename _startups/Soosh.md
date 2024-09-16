@@ -15,7 +15,12 @@ may sometimes even go up to 5 figures.</p>
 <p>Soosh also provides services like PR solutions, Social Media Account Management
 and Website SEO optimization. All within a touch of a button.</p>
 <p>No contracts, hidden cost and most importantly, no time wasted.</p>
+<hr>
+<h2><strong>FOUNDER</strong></h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder4.png">
+</div>
 <p><strong>Social</strong>
 </p>
 <p><a href="https://www.instagram.com/soosh.io/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/soosh.io/</a>
