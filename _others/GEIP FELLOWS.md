@@ -105,7 +105,7 @@ who’ve represented over 300+ brands.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.fatfreq.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FATfreq" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="FATfreq" src="/images/Startup/Start12.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -116,11 +116,11 @@ part of the pioneer batch of GEIP that went to Silicon Valley in 2016,
 interning in Kaneshka Designs.</div>
 <div class="isomer-card-link">More Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://imaginaryfilms.co/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Imaginary Films" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Imaginary Films</div><div class="isomer-card-description">Start Up Story Joshua graduated from Ngee Ann Polytechnic in 2017 from the School of Films Media Studies FMS. He was part of the pioneer batch of GEIP that went to Silicon Valley in 2016.</div><div class="isomer-card-link">More Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://imaginaryfilms.co/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Imaginary Films" src="/images/Startup/Start11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Imaginary Films</div><div class="isomer-card-description">Start Up Story Joshua graduated from Ngee Ann Polytechnic in 2017 from the School of Films Media Studies FMS. He was part of the pioneer batch of GEIP that went to Silicon Valley in 2016.</div><div class="isomer-card-link">More Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://www.drivewiseautoparts.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Drivewise Autoparts" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Drivewise Autoparts" src="/images/Startup/Start2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -129,11 +129,11 @@ interning in Kaneshka Designs.</div>
 brings automotive parts to you anywhere, anytime.</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Alphaese" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Alphaese</div><div class="isomer-card-description">Alphaese helps to build effective and efficient web solutions for SMEs and non-profits. They guide businesses on their digital journeys, and help them build their digital strategy and solutions!</div><div class="isomer-card-link">More details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Alphaese" src="/images/Startup/Start3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Alphaese</div><div class="isomer-card-description">Alphaese helps to build effective and efficient web solutions for SMEs and non-profits. They guide businesses on their digital journeys, and help them build their digital strategy and solutions!</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Vessels" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Vessels" src="/images/Startup/Start4.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -144,11 +144,11 @@ disconnected than ever before. Loneliness looms over youths as they struggle
 to connect and build real bonds with the people around them.</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tutoring" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tutoring</div><div class="isomer-card-description">Start Up Story SGtutoring is a one-stop educational platform for personalized learning and a Singapore home tuition agency. We find the best home tutor based on your requirements such as experience, budget, and time.</div><div class="isomer-card-link">More Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tutoring" src="/images/Startup/Start6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tutoring</div><div class="isomer-card-description">Start Up Story SGtutoring is a one-stop educational platform for personalized learning and a Singapore home tuition agency. We find the best home tutor based on your requirements such as experience, budget, and time.</div><div class="isomer-card-link">More Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Curatable.Co" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Curatable.Co" src="/images/Startup/Start7.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -157,7 +157,7 @@ to connect and build real bonds with the people around them.</div>
 get matched with talents for all their creative needs.</div>
 <div class="isomer-card-link">More Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Carbon" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Carbon</div><div class="isomer-card-description">Start Up Story At Carbon, our mission is to create comfortable, protective and reusable face masks. Our mask comes with advanced filtration technology, blocking 95% of airborne contaminants without trapping moisture.</div><div class="isomer-card-link">More Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Carbon" src="/images/Startup/Start5.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Carbon</div><div class="isomer-card-description">Start Up Story At Carbon, our mission is to create comfortable, protective and reusable face masks. Our mask comes with advanced filtration technology, blocking 95% of airborne contaminants without trapping moisture.</div><div class="isomer-card-link">More Details</div></div></a>
 </div>
 <hr>
 <h2><strong>ALUMNI COMMITTEE</strong></h2>
