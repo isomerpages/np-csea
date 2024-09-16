@@ -4,6 +4,10 @@ permalink: /fatfreq/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start12.png">
+</div>
 <p>Ivan graduated from Ngee Ann Polytechnic in 2017 with a Mechanical Engineering
 Diploma,&nbsp; Minoring in Business management. He was part of the pioneer
 batch of GEIP that went to Silicon Valley in 2016, interning in Kaneshka
