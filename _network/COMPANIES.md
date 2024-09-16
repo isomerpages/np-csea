@@ -113,6 +113,19 @@ counselors, educators, and technology professionals working to change how
 the world approaches post-secondary education.</div>
 <div class="isomer-card-link">Visit Cialfo</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://coins.ph" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Coins.ph" src="/images/Network Companies/manila2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Coins.ph</div><div class="isomer-card-description">Coins is a Southeast Asian fintech company that enables anyone, including those without a bank account, to easily access financial services directly from their phone. </div><div class="isomer-card-link">Visit Coins.ph</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://coins.ph" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Coins.ph" src="/images/Network Companies/manila2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Coins.ph</div><div class="isomer-card-description">Coins is a Southeast Asian fintech company that enables anyone, including those without a bank account, to easily access financial services directly from their phone.</div><div class="isomer-card-link">Visit Coins.ph</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dealroomevents.com" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Deal Room Events" src="/images/Network Companies/HSC1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Deal Room Events</div>
+<div class="isomer-card-description">Deal Room Events is a company focused on SaaS products for event organisers
+to provide them with a networking platform for their attendees.</div>
+<div class="isomer-card-link">Visit Deal Room Events</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://arcticstartup.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arctic Startup" src="/images/Network Companies/HSC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arctic Startup </div><div class="isomer-card-description">Arctic Startup is an independent technology blog that reports on startups and growth entrepreneurship from the Nordic and Baltic countries. Every year, the organization a startup conference called Arctic 15.</div><div class="isomer-card-link">Visit Arctic Startup</div></div></a>
 </div>
 <p></p>
