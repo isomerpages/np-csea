@@ -21,15 +21,4 @@ and Website SEO optimization. All within a touch of a button.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder4.png">
 </div>
-<p><strong>Social</strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Instagram</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://www.instagram.com/soosh.io/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/soosh.io/</a>
-</p>
-</div>
-</details>
-</div>
 <p></p>
