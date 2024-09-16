@@ -12,6 +12,12 @@ description: ""
 represented over 300+ brands.ocialLive enables businesses to sell on any
 livestream platform by providing access to experienced livestreamers who’ve
 represented over 300+ brands.</p>
+<hr>
+<h2><strong>FOUNDER</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder9.png">
+</div>
 <p></p>
 <p><strong>Contact</strong>
 </p>
