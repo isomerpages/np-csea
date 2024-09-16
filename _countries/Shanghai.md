@@ -46,7 +46,7 @@ they received about $1.3 billion in venture funding between 2015 and 2017.</p>
 <h2><strong>SOME OF OUR INTERNSHIP COMPANIES</strong></h2>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chinaccelerator.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinaccelerator" src="/images/Network Companies/SHC3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinaccelerator</div><div class="isomer-card-description">Chinaccelerator is a mentorship-drive programme assisting internet startups from around the world cross borders, into China. Chinaccelerator offers guidance, training and resources from mentors, partners and investors.</div><div class="isomer-card-link">Click here for Chinaccelerator</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://chinaccelerator.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinaccelerator" src="/images/Network Companies/SHC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinaccelerator</div><div class="isomer-card-description">Chinaccelerator is a mentorship-drive programme assisting internet startups from around the world cross borders, into China. Chinaccelerator offers guidance, training and resources from mentors, partners and investors.</div><div class="isomer-card-link">Click here for Chinaccelerator</div></div></a>
 </div>
 <p></p>
 <hr>
