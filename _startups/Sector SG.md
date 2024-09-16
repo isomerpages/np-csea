@@ -22,5 +22,13 @@ and technology.</p>
 <p></p>
 <p><strong>Social</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Instagram</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.instagram.com/sector_sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/sector_sg/</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
