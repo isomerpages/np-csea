@@ -21,7 +21,6 @@ Wellness, The FinLab by UOB, GohBakeACake, Reactor and Rocket Digital PL.</p>
 <hr>
 <h2><strong>FOUNDER</strong></h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder3.png">
 </div>
