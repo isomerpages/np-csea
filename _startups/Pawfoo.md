@@ -4,6 +4,10 @@ permalink: /pawfoo/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start1.png">
+</div>
 <p>Behind pawfoo are food science, business, and computer science students,
 dedicated to making nutritious, affordable, and sustainable pet snacks
 for your furry friends. They achieve that by upcycling local food manufacturers
