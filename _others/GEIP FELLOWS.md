@@ -62,34 +62,33 @@ we live in.</div>
 <hr>
 <h2><strong>ALUMNI COMMITTEE</strong></h2>
 <p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/veritycheng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Verity Cheng" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Verity Cheng</div><div class="isomer-card-link">LinkedIn</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/veritycheng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Verity Cheng" src="/images/Fellows/Social1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Verity Cheng</div><div class="isomer-card-link">LinkedIn</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/ryanisaiah/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ryan Lim" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ryan Lim" src="/images/Fellows/Social2.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ryan Lim</div>
 <div class="isomer-card-link">LinkedIn</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/byjc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Benjamin Yap" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Benjamin Yap</div><div class="isomer-card-link">LinkedIn</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/byjc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Benjamin Yap" src="/images/Fellows/Social3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Benjamin Yap</div><div class="isomer-card-link">LinkedIn</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/yeo-quan-rong-b38787165/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yeo Quan Rong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Yeo Quan Rong" src="/images/Fellows/Social4.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Yeo Quan Rong</div>
 <div class="isomer-card-link">LinkedIn</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chiang-jia-fu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chiang Jia Fu" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chiang Jia Fu</div><div class="isomer-card-link">LinkedIn</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chiang-jia-fu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chiang Jia Fu" src="/images/Fellows/Social5.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chiang Jia Fu</div><div class="isomer-card-link">LinkedIn</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/tan-jian-zhen/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tan Jian Zhen" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Tan Jian Zhen" src="/images/Fellows/Social6.png">
 </div>
 </div>
 <div class="isomer-card-body">
