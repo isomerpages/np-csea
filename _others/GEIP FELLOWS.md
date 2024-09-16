@@ -63,7 +63,7 @@ we live in.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sector SG" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Sector SG" src="/images/Startup/Start8.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -77,7 +77,7 @@ and technology.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Soosh" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Soosh" src="/images/Startup/Start9.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -91,7 +91,7 @@ whose quotation may sometimes even go up to 5 figures.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SocialLive" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="SocialLive" src="/images/Startup/Start10.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -101,7 +101,7 @@ who’ve represented over 300+ brands.ocialLive enables businesses to sell
 on any livestream platform by providing access to experienced livestreamers
 who’ve represented over 300+ brands.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://pawfoo.co" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pawfoo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pawfoo</div><div class="isomer-card-description">Start Up Story Behind pawfoo are food science, business, and computer science students, dedicated to making nutritious, affordable, and sustainable pet snacks for your furry friends.</div><div class="isomer-card-link">More Details</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://pawfoo.co" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pawfoo" src="/images/Startup/Start1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pawfoo</div><div class="isomer-card-description">Start Up Story Behind pawfoo are food science, business, and computer science students, dedicated to making nutritious, affordable, and sustainable pet snacks for your furry friends.</div><div class="isomer-card-link">More Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.fatfreq.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
