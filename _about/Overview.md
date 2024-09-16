@@ -60,7 +60,7 @@ and a new generation of digital natives positively impact our future lifestyle,
 society, environment and economy.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GIA.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GIA.png">
 </div>
 <p>Our mission is to expose Singapore students to innovation and entrepreneurship
 in innovation hubs around the world and emerging markets in the region.
