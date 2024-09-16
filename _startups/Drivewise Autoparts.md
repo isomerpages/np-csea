@@ -16,6 +16,12 @@ owners should be equipped with the essential knowledge about cars and their
 spare parts.</p>
 <p>Their range of products cater for Japanese and Korean vehicles and is
 the sole distributor for Hankook Frixa Brake Systems in the Singapore market.</p>
+<hr>
+<h2><strong>FOUNDER</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Founder/Founder8.png">
+</div>
 <p></p>
 <p><strong>Contact</strong>
 </p>
