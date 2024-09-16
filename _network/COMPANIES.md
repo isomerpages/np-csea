@@ -190,3 +190,74 @@ of the leading tech conferences in Asia.</div>
 </a>
 </div>
 <p></p>
+<hr>
+<p></p>
+<h2><strong>COMPANY TESTIMONIALS</strong></h2>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Amarit Charoenphan (CEO &amp; Founder )- Hubba</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>"Our interns have actually surpassed and exceeded all our expectations
+of what we expect from an intern. From our experience, we have now had
+the luxury of understanding what it is to operate cross culture, across
+many nationalities and evolve Hubba into a much more international company."</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Kwek Hong Xin (CEO &amp; Founder) - Phoenix ICT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>"The GEIP is a very powerful option for not just the student, but also
+for the employer. If the students are of a very good quality, it is also
+a reflection of the employer. It is a programme where I believe the students
+have the opportunity to show what they are capable of."</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Barak Sharbi (Chief Global Strategy) - Infinity Technologies</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>"Startups, even though they seem like a very loose environment have to
+work in the utmost professionalism. So for me, startups need to look at
+the best value, the best students that they can actually get, the best
+access. This programme is one of the best things they can reach out to."</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Ivan Wang (CEO &amp; Founder) - JV Lie</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>"My biggest takeaway from working with Singapore interns is they have
+strong professionalism. I feel the youths nowadays are so creative. They
+are young and good at lifting up the morale in the workplace. I feel this
+characteristic in them is very special and valuable in the current unsettling
+startup scene in China."</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Cindy Sun (Assistant Manager) - Huntjoy</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>"I would think that Singapore students are particularly young and energetic.
+At the same time, they have a mind of their own. Their perspective of looking
+at the problem is very different, making our entire process more professional."</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Timothy Liu (CEO &amp; Founder) - LightBeijing</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>"These interns are different from the interns in China. Basically, they
+start to get involved directly, and can contribute straight away. I personally
+think that the mindset of these interns is different compared to the Chinese
+culture. They are ready for the workplace: their language, their way of
+thinking, their execution methods are efficient."</p>
+</div>
+</details>
+</div>
+<p></p>
+<hr>
+<p></p>
+<p></p>
