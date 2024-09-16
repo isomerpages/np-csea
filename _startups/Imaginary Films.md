@@ -4,6 +4,10 @@ permalink: /imaginary-films/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start11.png">
+</div>
 <p>Joshua graduated from Ngee Ann Polytechnic in 2017 from the School of
 Films Media Studies&nbsp; FMS. He was part of the pioneer batch of GEIP
 that went to Silicon Valley in 2016. Inspired by this internship experience,
