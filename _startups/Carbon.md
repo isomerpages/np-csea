@@ -4,6 +4,10 @@ permalink: /carbon/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Startup/Start5.png">
+</div>
 <p>At Carbon, our mission is to create comfortable, protective and reusable
 face masks. Our mask comes with advanced filtration technology, blocking
 95% of airborne contaminants without trapping moisture. The three-ply ensures
