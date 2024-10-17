@@ -17,7 +17,7 @@ sections:
         - title: Apply Now
           description: ""
           url: https://www.geip.np.edu.sg/
-        - title: "Adapting & Thriving: Navigating Cultural Diversity in SEA"
+        - title: "29 Oct 2024 Fireside Chat: Navigating Cultural Diversity"
           description: ""
           url: https://www.eventbrite.sg/manage/events/1027686537097/details
         - title: Learn More
