@@ -50,7 +50,7 @@ to say about GEI.</p>
 <div class="isomer-card-title">Open Gov</div>
 <div class="isomer-card-link">View more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/education/ngee-ann-poly-a-draw-for-budding-entrepreneurs%20" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Straits Time" src="/images/Media/M7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Straits Time</div><div class="isomer-card-link">View more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/education/ngee-ann-poly-a-draw-for-budding-entrepreneurs%20" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Straits Time" src="/images/The_Straits_Times_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Straits Time</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://thailandgamechanger.com/2019/09/19/ep-14-jianhong-lin-ngee-ann-polytechnic-country-head-bangkok-global-innovation-alliance/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
