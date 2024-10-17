@@ -71,7 +71,7 @@ to say about GEI.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">The New Paper</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://vulcanpost.com/647791/edb-overseas-internship-programme-singapore/%20" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Vulcan Post" src="/images/Media/M27.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vulcan Post</div><div class="isomer-card-link">View more</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://vulcanpost.com/647791/edb-overseas-internship-programme-singapore/%20" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Vulcan Post" src="/images/vulcan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vulcan Post</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sg.news.yahoo.com/singapore-government-launches-student-entrepreneurship-immersion-program-060103077.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
