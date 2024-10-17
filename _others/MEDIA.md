@@ -19,7 +19,7 @@ to say about GEI.</p>
 <div class="isomer-card-title">The Business Times</div>
 <div class="isomer-card-link">View more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://e27.co/enterprise-singapore-supports-access-to-vietnam-tech-ecosystem-with-gia-expansion-20190722/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e27" src="/images/Media/M25.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">e27</div><div class="isomer-card-link">View more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://e27.co/enterprise-singapore-supports-access-to-vietnam-tech-ecosystem-with-gia-expansion-20190722/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e27" src="/images/e27.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">e27</div><div class="isomer-card-link">View more</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
