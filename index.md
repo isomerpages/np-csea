@@ -17,9 +17,9 @@ sections:
         - title: Apply Now
           description: ""
           url: https://www.geip.np.edu.sg/
-        - title: SEA Unlocked fireside chat
+        - title: "Adapting & Thriving: Navigating Cultural Diversity in SEA"
           description: ""
-          url: https://form.gov.sg/660532f84352a6f21eb26698
+          url: https://www.eventbrite.sg/manage/events/1027686537097/details
         - title: Learn More
           description: ""
           url: /geip-overseas/
