@@ -63,10 +63,10 @@ a valuable learning experience.</p>
 <hr>
 <h2><strong>VISA &amp; FUNDING SUPPORT</strong></h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEIP/WhatsApp_Image_2024_09_07_at_21_52_10.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Demo.png">
+</div>
 <ul>
 <li>
 <p><strong>Visa Facilitation:</strong> CSEA will assist with the visa process
