@@ -13,8 +13,9 @@ students with the chance to immerse themselves in international work cultures
 and industry practices.</p>
 <hr>
 <h2><strong>WHAT WE OFFER</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEIP/WechatIMG43.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSH.png">
 </div>
 <ul>
 <li>
@@ -36,10 +37,10 @@ diverse opportunities for students to hone their skills.</p>
 <hr>
 <h2><strong>PLACEMENT PROCESS</strong></h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEIP/IMG_9999.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/interns.png">
+</div>
 <p>We collaborate with schools to identify placements that best match students’
 career goals. Schools continue to source companies and assign students,
 while CSEA facilitates connections and helps secure placements.</p>
