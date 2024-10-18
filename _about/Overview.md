@@ -72,30 +72,32 @@ through internships.</p>
 <h2><strong>OUR TEAM</strong></h2>
 <p></p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="anna_irene_yeow@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Anna Yeow" src="/images/About/About1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Anna Yeow</div><div class="isomer-card-description">Deputy Director, CSEA</div><div class="isomer-card-link">anna_irene_yeow@np.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Joanna_CHIA@np.edu.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anna Yeow" src="/images/About/About1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Joanna Chia" src="/images/About/About2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Anna Yeow</div>
-<div class="isomer-card-description">Head, CSEA</div>
+<div class="isomer-card-title">Joanna Chia</div>
+<div class="isomer-card-description">Country Manager: China (Beijing, Shanghai, Suzhou, Shenzhen) Hong Kong,
+Helsinki, Hyderabad, Dubai, Sydney, London</div>
+<div class="isomer-card-link">Joanna_CHIA@np.edu.sg</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="Joanna_CHIA@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joanna Chia" src="/images/About/About2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joanna Chia</div><div class="isomer-card-description">Country Manager: China (Beijing, Shanghai, Suzhou, Shenzhen) Hong Kong, Helsinki, Hyderabad, Dubai, Sydney, London</div><div class="isomer-card-link">Joanna_CHIA@np.edu.sg</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Shareeda_MORRISON@np.edu.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="Shareeda_MORRISON@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shareeda Morrison" src="/images/About/About3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shareeda Morrison</div><div class="isomer-card-description">Country Manager: Ho Chi Minh City, Hanoi</div><div class="isomer-card-link">Shareeda_MORRISON@np.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="gordon_ho@np.edu.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shareeda Morrison" src="/images/About/About3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Gordon Ho" src="/images/About/About4.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Shareeda Morrison</div>
-<div class="isomer-card-description">Country Manager: Ho Chi Minh City, Hanoi</div>
-<div class="isomer-card-link">Shareeda_MORRISON@np.edu.sg</div>
+<div class="isomer-card-title">Gordon Ho</div>
+<div class="isomer-card-description">Country Manager: Bangkok</div>
+<div class="isomer-card-link">gordon_ho@np.edu.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="gordon_ho@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gordon Ho" src="/images/About/About4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gordon Ho</div><div class="isomer-card-description">Country Manager: Bangkok</div><div class="isomer-card-link">gordon_ho@np.edu.sg</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="norhidayu_kadir@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Norhidayu Kadir" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Norhidayu Kadir</div><div class="isomer-card-description">Senior Executive</div><div class="isomer-card-link">norhidayu_kadir@np.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="liu_jinglin@np.edu.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
