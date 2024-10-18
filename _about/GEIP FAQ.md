@@ -97,5 +97,41 @@ will be city-specific.</p>
 your institution.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Will I get any funding support for the overseas internship programme?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes! There will be funding support provided depending on the type of internship
+programme that you are on. <strong>Global Ready Talent Programme by Enterprise Singapore funds part of the funding support available to you, your institution might top up additional funding support as well.</strong>
+</p>
+<p>&nbsp;</p>
+<p>As part of the GRT overseas allowance, students will receive:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a one-time travel allowance of S$1200, and</p>
+</li>
+<li>
+<p>an additional subsistence allowance of S$32.90 per day
+<br>
+<br>More details of funding support will be provided to you by your institution
+during internship briefing. The grant provided will be sufficient to cover
+cost of your visa application, flight as well as basic accommodation. However,
+please be aware that the provided funding may not cover ALL your expenses.
+You will need to top up the difference based on your personal lifestyle
+and living habits. We encourage you to budget accordingly and plan your
+finances to ensure a smooth and enjoyable internship experience.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>I'm from the Diploma of Nursing / <strong>Early Childhood Development &amp; Education. Can I apply for overseas internships?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Unfortunately, no. As your diploma will enable you to graduate as a registered
+nurse or early childhood educator in Singapore, you will be required to
+fulfil <strong>practice-oriented training/ clinical training in </strong>practicum
+attachments locally to apply what you have learnt from the courses.&nbsp;</p>
+</div>
+</details>
 </div>
 <p></p>
