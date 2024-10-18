@@ -49,3 +49,19 @@ You will given a monthly allowance that is sufficient for the duration of your o
 **9) Do I need to fulfill any academic commitments to qualify for GEI?**
 
 To work overseas for GEI, you need to meet all academic requirements of your institution.
+
+**10)Will I get any funding support for the overseas internship programme?**
+
+Yes! There will be funding support provided depending on the type of internship programme that you are on. **Global Ready Talent Programme by Enterprise Singapore funds part of the funding support available to you, your institution might top up additional funding support as well.**
+
+As part of the GRT overseas allowance, students will receive:
+
+*   a one-time travel allowance of S$1200, and
+    
+*   an additional subsistence allowance of S$32.90 per day  
+      
+    More details of funding support will be provided to you by your institution during internship briefing. The grant provided will be sufficient to cover cost of your visa application, flight as well as basic accommodation. However, please be aware that the provided funding may not cover ALL your expenses. You will need to top up the difference based on your personal lifestyle and living habits. We encourage you to budget accordingly and plan your finances to ensure a smooth and enjoyable internship experience.
+		
+**11)I'm from the Diploma of Nursing / Early Childhood Development & Education. Can I apply for overseas internships?**
+
+Unfortunately, no. As your diploma will enable you to graduate as a registered nurse or early childhood educator in Singapore, you will be required to fulfil **practice-oriented training/ clinical training in** practicum attachments locally to apply what you have learnt from the courses.
