@@ -124,8 +124,8 @@ finances to ensure a smooth and enjoyable internship experience.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>I'm from the Diploma of Nursing / <strong>Early Childhood Development &amp; Education. Can I apply for overseas internships?</strong>
-</summary>
+<summary>I'm from the Diploma of Nursing / Early Childhood Development &amp; Education.
+Can I apply for overseas internships?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Unfortunately, no. As your diploma will enable you to graduate as a registered
 nurse or early childhood educator in Singapore, you will be required to
