@@ -14,11 +14,12 @@ and are keen in developing their entrepreneurial skills.</p>
 <p></p>
 <p></p>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/interns.png">
-</div>
 <h2><strong>FACTS ABOUT GEI</strong></h2>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event/Event4.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>GEI Launched</summary>
