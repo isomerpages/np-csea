@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Center for Southeast Asia
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - Ngee Ann Polytechnic,
+      - 535 Clementi Road,
+      - Singapore 599489
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
@@ -16,9 +16,9 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: ""
       - email: askgia@np.edu.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
 feedback: ""
 ---
