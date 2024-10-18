@@ -12,7 +12,7 @@ to say about GEI.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.businesstimes.com.sg/government-economy/global-ready-talent-programme-launched-to-train-young-talent-for-overseas" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Business Times" src="/images/Media/M24.png">
+<img style="width: 100%" height="auto" width="100%" alt="The Business Times" src="/images/BT.png">
 </div>
 </div>
 <div class="isomer-card-body">
