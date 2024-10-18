@@ -65,7 +65,7 @@ to say about GEI.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The New Paper" src="/images/tnps.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The New Paper" src="/images/tnps3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
