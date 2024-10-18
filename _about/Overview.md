@@ -72,7 +72,18 @@ through internships.</p>
 <h2><strong>OUR TEAM</strong></h2>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="anna_irene_yeow@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Anna Yeow" src="/images/About/About1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Anna Yeow</div><div class="isomer-card-description">Deputy Director, CSEA</div><div class="isomer-card-link">anna_irene_yeow@np.edu.sg</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fong Pin Fen" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Fong Pin Fen</div>
+<div class="isomer-card-description">Director, CSEA</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="anna_irene_yeow@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Anna Yeow" src="/images/About/About1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Anna Yeow</div><div class="isomer-card-description">Deputy Director, CSEA</div><div class="isomer-card-link">anna_irene_yeow@np.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Joanna_CHIA@np.edu.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -110,17 +121,6 @@ Helsinki, Hyderabad, Dubai, Sydney, London</div>
 <div class="isomer-card-link">liu_jinglin@np.edu.sg</div>
 </div>
 </a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fong Pin Fen" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Fong Pin Fen</div>
-<div class="isomer-card-description">Director, CSEA</div>
-</div>
-</div>
 </div>
 <hr>
 <h2><strong>OUR ROLE</strong></h2>
