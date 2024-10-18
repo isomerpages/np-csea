@@ -59,7 +59,7 @@ will receive a Minor in Entrepreneurship.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Global Startup Hack" src="/images/GEIP/WhatsApp_Image_2024_09_07_at_21_52_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Global Startup Hack" src="/images/introduction .png">
 </div>
 </div>
 <div class="isomer-card-body">
