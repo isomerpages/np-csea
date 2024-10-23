@@ -76,7 +76,7 @@ through internships.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fong Pin Fen" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Fong Pin Fen" src="/images/Fong_Pin_Fen.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -108,19 +108,7 @@ Helsinki, Hyderabad, Dubai, Sydney, London</div>
 <div class="isomer-card-description">Country Manager: Bangkok</div>
 <div class="isomer-card-link">gordon_ho@np.edu.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="norhidayu_kadir@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Norhidayu Kadir" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Norhidayu Kadir</div><div class="isomer-card-description">Senior Executive</div><div class="isomer-card-link">norhidayu_kadir@np.edu.sg</div></div></a>
-<a rel="noopener noreferrer nofollow" href="liu_jinglin@np.edu.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Liu Jinglin" src="/images/About/About5.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Liu Jinglin</div>
-<div class="isomer-card-description">Admin Executive</div>
-<div class="isomer-card-link">liu_jinglin@np.edu.sg</div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="liu_jinglin@np.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Liu Jinglin" src="/images/About/About5.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Liu Jinglin</div><div class="isomer-card-description">Admin Executive</div><div class="isomer-card-link">liu_jinglin@np.edu.sg</div></div></a>
 </div>
 <hr>
 <h2><strong>OUR ROLE</strong></h2>
