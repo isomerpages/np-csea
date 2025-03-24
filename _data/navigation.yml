@@ -1,16 +1,12 @@
 logo: /images/Logos/CSEA_LL1_FULL_COLOUR_LIGHT_BG_CMYK.png
 links:
-  - title: Home
-    url: /
   - title: About
     collection: about
-  - title: GLOBAL STARTUP CHALLENGE
-    url: /global-startup-challenge/
-  - title: Our Network
-    collection: network
-  - title: Testimonials
-    url: /testimonials/
-  - title: Other
+  - title: STUDENT PROGRAMMES
+    collection: about
+  - title: Staff programmes
     collection: others
-  - title: Apply now
-    url: /apply-now/
+  - title: Partners & Network
+    collection: network
+  - title: New folder
+    collection: about
