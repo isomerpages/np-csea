@@ -2,7 +2,7 @@
 layout: homepage
 title: Center for Southeast Asia
 description: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
-image: /images/isomer-logo.svg
+image: /images/Logos/CSEA_LL1_FULL_COLOUR_LIGHT_BG_CMYK.png
 permalink: /
 notification: Gain global 🌍 experience and stand out. Apply Now! Applications
   close on 14 Nov 2024 (2359).
