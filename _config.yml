@@ -2,19 +2,19 @@ title: Center for Southeast Asia
 url: https://www.csea.edu.sg
 favicon: /images/Favicon/favicon_32x32.png
 colors:
-  primary-color: "#0f1035"
-  secondary-color: "#365486"
+  primary-color: "#000000"
+  secondary-color: "#ffffff"
   media-colors:
     - title: media-color-one
-      color: "#7fc7d9"
+      color: "#59cbe8"
     - title: media-color-two
-      color: "#dcf2f1"
+      color: "#9d2235"
     - title: media-color-three
-      color: "#00838f"
+      color: "#005eb8"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ff7500"
     - title: media-color-five
-      color: "#00838f"
+      color: "#af1685"
 description: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
 permalink: none
 baseurl: ""
