@@ -1,5 +1,5 @@
 collections:
-  about:
+  student-programme:
     output: true
     order:
       - Overview.md
