@@ -1,4 +1,5 @@
 collections:
   staff-programme:
     output: true
-    order: []
+    order:
+      - SAIL.md
