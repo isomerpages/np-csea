@@ -21,5 +21,7 @@ Human-Centred Design Thinking principles.&nbsp;
 YEP/ school signature OIPs.&nbsp;</p>
 </li>
 </ul>
-<p>Shortlist students will be called for an interview.&nbsp;</p>
+<p>Shortlist students will be called for an interview.&nbsp;SAILwill take
+place in Sep vacation annually.&nbsp;Application Period will be Mid-April
+to Mid-May</p>
 <p>&nbsp;</p>
