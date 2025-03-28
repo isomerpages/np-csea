@@ -40,3 +40,23 @@ in business education and corporate finance</div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/agustinmarjanti/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Agustin" src="/images/About/Agustin_DP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Agustin</div><div class="isomer-card-description">Agustin, Regional Head
+
+With over 7 years of experience at NUS Enterprise and a decade-long career at AWAK Technologies, Agustin drives strategic growth and partnerships in Southeast Asia, with a focus in Indonesia, leading business development and innovation initiatives across the region.</div><div class="isomer-card-link">LinkedIn</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/shareedamorrison/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shareeda Morrison" src="/images/About/About3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Shareeda Morrison</div>
+<div class="isomer-card-description">Shareeda Morrison, Country Head, Vietnam A certified Knowdell Career Advisor
+with a strong media and advertising background, Shareeda oversees overseas
+internships in Vietnam and is passionate about creating opportunities with
+leading companies that align with students' career goals.</div>
+<div class="isomer-card-link">LinkedIn</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
