@@ -1,12 +1,12 @@
 logo: /images/Logos/CSEA_LL1_FULL_COLOUR_LIGHT_BG_CMYK.png
 links:
-  - title: STUDENT PROGRAMMES
-    collection: student-programme
   - title: ABOUT
     collection: about
+  - title: STUDENT PROGRAMMES
+    collection: student-programme
+  - title: STAFF PROGRAMMES
+    collection: staff-programme
   - title: PARTNERS & NETWORK
     collection: network
-  - title: RESOURCES
-    collection: countries
   - title: New resource room
     resource_room: true
