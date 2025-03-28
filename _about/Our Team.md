@@ -40,9 +40,7 @@ in business education and corporate finance</div>
 </div>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/agustinmarjanti/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Agustin" src="/images/About/Agustin_DP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Agustin</div><div class="isomer-card-description">Agustin, Regional Head
-
-With over 7 years of experience at NUS Enterprise and a decade-long career at AWAK Technologies, Agustin drives strategic growth and partnerships in Southeast Asia, with a focus in Indonesia, leading business development and innovation initiatives across the region.</div><div class="isomer-card-link">LinkedIn</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/agustinmarjanti/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Agustin" src="/images/About/Agustin_DP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Agustin</div><div class="isomer-card-description">Agustin, Regional Head</div><div class="isomer-card-link">LinkedIn</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/shareedamorrison/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
