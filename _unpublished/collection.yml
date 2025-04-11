@@ -1,4 +1,5 @@
 collections:
   unpublished:
     output: true
-    order: []
+    order:
+      - GEIP Remote.md
