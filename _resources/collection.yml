@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Apply Now.md
       - FAQ.md
       - Application Portal.md
       - Apply.md
