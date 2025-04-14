@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Apply.md
       - GEIP FAQ.md
       - Application Portal.md
