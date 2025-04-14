@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Internships
 ---
-<p>With Covid-19 travel restrictions easing, GEIP overseas internships will
-resume for Bangkok, Ho Chi Minh City, Shanghai, Beijing and Jakarta with
-limited availability for September 2023 internships.</p>
-<hr>
+<h2><strong>ABOUT GEIP</strong></h2>
+<p>GEIP is a signature internship programme initiated by Ngee Ann Polytechnic
+in 2016. It provides students with internship opportunities to experience
+life in vibrant startup ecosystems abroad.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/shanghai" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shanghai" src="/images/Countries/Shanghai.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shanghai</div><div class="isomer-card-description">Shanghai has an impressive mix of global corporate innovation, startup co-working and investment hubs. Shanghai has quickly become a centre for technology and greater financial services.</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/beijing/" class="isomer-card">
 <div class="isomer-card-image">
@@ -55,25 +55,17 @@ in the top 30 of the Global Innovation Index by 2030.</div>
 </div>
 </a>
 </div>
-<hr>
-<h2><strong>ABOUT GEI</strong></h2>
-<p>GEI is a signature internship programme initiated by Ngee Ann Polytechnic
-in 2016. It provides students with internship opportunities to experience
-life in vibrant startup ecosystems abroad.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRT.png">
-</div>
 <p>The programme has expanded its reach to help groom young entrepreneurial
 talents from participating polytechnics and universities in Singapore.</p>
 <p>Through creating opportunities in the entrepreneurship and innovation
-arena, GEI helps to groom future entrepreneurs, business leaders and innovators
+arena, GEIP helps to groom future entrepreneurs, business leaders and innovators
 for Singapore.</p>
 <hr>
 <h2><strong>ENTREPRENEURIAL DEVELOPMENT</strong></h2>
-<p>A unique feature of GEI is the Entrepreneurial Development Programme created
-for interns. Interns will have the opportunity to attend customised workshops
-at different stages of their internship journey, to pick up the skills
-required in startup environments.</p>
+<p>A unique feature of GEIP is the Entrepreneurial Development Programme
+created for interns. Interns will have the opportunity to attend customised
+workshops at different stages of their internship journey, to pick up the
+skills required in startup environments.</p>
 <p><strong>Our workshops include:</strong>
 </p>
 <ul data-tight="true" class="tight">
