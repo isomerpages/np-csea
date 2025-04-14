@@ -38,10 +38,10 @@ endeavours.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Step 1 - Email <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg</u></a></strong> to
-introduce your startup</summary>
+<summary>Step 1 - Email us to introduce your startup</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Emai to - <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg</u></a></strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
