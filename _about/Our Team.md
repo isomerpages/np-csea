@@ -27,7 +27,7 @@ dynamic business landscape.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Steven Yeow" src="/images/Logos/CSEA_LL1_1C_REVERSE_WHITE_CMYK.png">
+<img style="width: 100%" height="auto" width="100%" alt="Steven Yeow" src="/images/About/BA_ykl6_9748_Portrait.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
