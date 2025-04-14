@@ -3,7 +3,7 @@ url: https://www.csea.edu.sg
 favicon: /images/Favicon/favicon_32x32.png
 colors:
   primary-color: "#000000"
-  secondary-color: "#ffffff"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
       color: "#59cbe8"
