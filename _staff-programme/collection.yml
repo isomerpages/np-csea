@@ -2,5 +2,6 @@ collections:
   staff-programme:
     output: true
     order:
+      - Staff Pinnacle Programme/3 Week Single City Immersion.md
       - Staff Pinnacle Programme/7 Day Twin City Experience.md
       - Staff Pinnacle Programme/.keep
