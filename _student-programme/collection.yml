@@ -2,6 +2,7 @@ collections:
   student-programme:
     output: true
     order:
+      - Overseas Internships/Overseas Domain Internship Program.md
       - Overseas Internships/.keep
       - Overview.md
       - GEIP.md
