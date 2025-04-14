@@ -2,9 +2,9 @@ collections:
   staff-programme:
     output: true
     order:
-      - Programs/.keep
-      - "Staff Pinnacle Programme/Staff Programme: Southeast Asia Readiness.md"
       - Staff Pinnacle Programme/.keep
+      - "Staff Pinnacle Programme/Staff Programme: Southeast Asia Readiness.md"
       - Staff Pinnacle Programme/7 Day Twin City Experience.md
       - Staff Pinnacle Programme/3 Week Single City Immersion.md
       - Staff Pinnacle Programme/5 Month Industry Attachment.md
+      - Programs/.keep
