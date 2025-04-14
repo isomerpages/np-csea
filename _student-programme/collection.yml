@@ -2,8 +2,8 @@ collections:
   student-programme:
     output: true
     order:
-      - SAIL.md
       - Overview.md
       - Overseas Domain Internship Program.md
       - GEIP Overseas.md
+      - SAIL.md
       - GEIP FAQ.md
