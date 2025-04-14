@@ -85,7 +85,7 @@ innovation, she fosters strategic collaborations across Asia. .</div>
 </div>
 </div>
 <p></p>
-<h2>Support Staff</h2>
+<h2>Administrative Team</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
