@@ -40,7 +40,7 @@ endeavours.</p>
 <details class="isomer-details">
 <summary>Step 1 - Email us to introduce your startup</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Emai to - <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg</u></a></strong>
+<p>Email to - <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg</u></a></strong>
 </p>
 </div>
 </details>
