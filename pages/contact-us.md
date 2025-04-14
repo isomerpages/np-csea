@@ -9,8 +9,11 @@ locations:
       - 535 Clementi Road,
       - Singapore 599489
     operating_hours:
-      - days: Mon - Fri
+      - days: Mon - Thurs
         time: 8.30am - 6.00pm
+        description: ""
+      - days: Fri
+        time: 8.30am - 5.30pm
         description: Closed on Weekends and Public Holidays
     maps_link: ""
     title: Main Office
