@@ -8,5 +8,8 @@ links:
     collection: staff-programme
   - title: PARTNERS & NETWORK
     collection: network
-  - title: New resource room
-    resource_room: true
+  - title: RESOURCES
+    url: /resources
+    sublinks:
+      - title: New submenu
+        url: /permalink
