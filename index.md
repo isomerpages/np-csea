@@ -10,20 +10,19 @@ sections:
   - hero:
       title: Center for Southeast Asia
       subtitle: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
-      background: /images/world map.png
-      button: Apply Now
+      background: /images/Logos/CSEA_LL1_FULL_COLOUR_LIGHT_BG_CMYK.png
       url: https://www.geip.np.edu.sg/
       key_highlights:
-        - title: Apply Now
+        - title: Apply For GEIP
           description: ""
           url: https://www.geip.np.edu.sg/
-        - title: "29 Oct 2024 Fireside Chat: Navigating Cultural Diversity"
+        - title: Apply for DOMAIN
           description: ""
-          url: https://www.eventbrite.sg/manage/events/1027686537097/details
+          url: ""
         - title: Learn More
           description: ""
           url: /geip-overseas/
-      variant: center
+      variant: image
   - textcards:
       title: Our Stats
       id: textcards
