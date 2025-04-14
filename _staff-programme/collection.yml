@@ -2,5 +2,4 @@ collections:
   staff-programme:
     output: true
     order:
-      - Staff Pinnacle Programme/Staff Pinnacle Programme.md
       - Staff Pinnacle Programme/.keep
