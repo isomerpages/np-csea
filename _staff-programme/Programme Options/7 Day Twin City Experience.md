@@ -12,3 +12,7 @@ that will broaden your perspective on regional opportunities.</p>
 <p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff Pinnacle Trip 2" src="/images/Staff Pinacle/Staff_Pinnacle_Trip_2.jpg">
+</div>
+<p></p>
