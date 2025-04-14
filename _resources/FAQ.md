@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Do you have questions about the programme? Find out more through the answers
-below or send your question to <strong><a href="mailto:Askgia@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">askgia@np.edu.sg</a>.</strong>
+below or send your question to <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg</u></a>.</strong>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
