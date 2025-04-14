@@ -2,7 +2,8 @@ collections:
   student-programme:
     output: true
     order:
-      - Overseas Internships/GEIP.md
+      - Overseas Internships/Global Entrepreneurial Internship Programme
+        (GEIP).md
       - Overseas Internships/Overseas Domain Internship Program.md
       - Overseas Internships/.keep
       - Overview.md
