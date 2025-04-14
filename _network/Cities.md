@@ -4,10 +4,11 @@ permalink: /cities/
 variant: tiptap
 description: ""
 ---
-<p>Global Entrepreneurial Internship (GEI) immerses student interns in overseas
-startup companies in 15 cities around the world. Students will experience
-working in a startup, build their networks early within the startup community
-and participate in local entrepreneurial development programmes.</p>
+<p>Global Entrepreneurial Internship Programme (GEIP) immerses student interns
+in overseas startup companies in 15 cities around the world. Students will
+experience working in a startup, build their networks early within the
+startup community and participate in local entrepreneurial development
+programmes.</p>
 <hr>
 <h2><strong>ASEAN</strong></h2>
 <p></p>
