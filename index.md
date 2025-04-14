@@ -19,22 +19,6 @@ sections:
           description: ""
           url: /overseas-domain-internship-program/
       variant: image
-  - textcards:
-      title: Our Stats
-      id: textcards
-      cards:
-        - title: "17"
-          description: Cities in CSEA Network
-          linktext: Learn more
-          url: /geip-cities/
-        - title: "550"
-          description: Internships in various startups​
-          linktext: Learn more
-          url: /companies/
-        - title: "6"
-          description: Institutes of Higher Learning programme​
-          linktext: Learn more
-          url: /partners/
   - infocols:
       title: Why You Should Apply ?
       id: infocols
@@ -48,16 +32,24 @@ sections:
         - title: Immersive
           description: Immerse yourself in internship at overseas startup companies and
             apply your skills and talents to make an impact.
-  - infopic:
-      title: How To Apply
-      id: infopic
-      button: Click to find out more
-      url: /apply-now/
-      image: /images/GEIP/IMG_0262.jpg
-      alt: Reactor
-  - infopic:
-      title: 100+ Startup Community Partners
-      id: infopic
-      image: /images/partners.png
-      alt: Startup Community Partners
+  - textcards:
+      title: Our Stats
+      id: textcards
+      cards:
+        - title: 17 Cities in CSEA Network
+          description: ""
+          linktext: Learn more
+          url: /geip-cities/
+        - title: 100+ Startups community Partners
+          description: ""
+          linktext: Learn more
+          url: /partners/
+        - title: 6 Institutes of Higher Learning programme​
+          description: ""
+          linktext: Learn more
+          url: /partners/
+        - title: 550 Internships in various startups​
+          description: ""
+          linktext: Learn more
+          url: /companies/
 ---
