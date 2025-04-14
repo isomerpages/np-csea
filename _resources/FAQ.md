@@ -10,11 +10,11 @@ below or send your question to <strong><a href="mailto:Askgia@np.edu.sg" rel="no
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>I want to go for GEI! How do I know if I qualify?</summary>
+<summary>I want to go for GEIP! How do I know if I qualify?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>There are usually two rounds of application for March and September internship
 semesters. All eligible students from polytechnics and autonomous universities
-are welcome to apply for GEI. If you are not a student at Ngee Ann Polytechnic,
+are welcome to apply for GEIP. If you are not a student at Ngee Ann Polytechnic,
 please check with your institution or email us to inquire about eligibility.</p>
 <p></p>
 <p>Students who are self-starters, who are open to learning from startups,
@@ -23,7 +23,7 @@ apply!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Can anyone apply for GEI?</summary>
+<summary>Can anyone apply for GEIP?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The internship programme is open to all students who are Singaporeans
 and Singapore Permanent Residents. Please check with your institution or
@@ -34,11 +34,11 @@ email us if you are interested.&nbsp;</p>
 <summary>Can I choose the country/company I wish to intern in?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>While we seek to ensure you are comfortable in the country you are placed
-in, GIA and our partner company will make the final decision. You will
+in, CSEA and our partner company will make the final decision. You will
 be assessed whether you are a fit for the company and what they require
 in an intern. Shortlisted applicants need to go through a first round of
-interview with GIA. This is followed by interviews with the overseas companies
-GIA has allocated you to, tentatively based on your skillsets and soft
+interview with CSEA. This is followed by interviews with the overseas companies
+CSEA has allocated you to, tentatively based on your skillsets and soft
 skills displayed at the first round of interview.</p>
 <p></p>
 <p>A tentative allocation does not equal a confirmed placement. Students
@@ -46,7 +46,7 @@ will still have to secure interviews with the overseas company.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Do I need to take my academic school’s internship and take GEI if I am
+<summary>Do I need to take my academic school’s internship and take GEIP if I am
 selected?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Our internship replaces your school’s internship module.</p>
@@ -58,7 +58,7 @@ who do I submit my internship reports to?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>You will submit your academic internship report to your school internship
-supervisor. If there are additional assessments required by GIA, you will
+supervisor. If there are additional assessments required by CSEA, you will
 be informed by your Country Manager.</p>
 </div>
 </details>
@@ -76,7 +76,7 @@ duration.&nbsp;</p>
 </details>
 <details class="isomer-details">
 <summary>Can I use the Post-Secondary Education Account (PSEA) to fund my living
-expenses for GEI?</summary>
+expenses for GEIP?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>PSEA cannot be used to support your expenses.</p>
 </div>
@@ -91,10 +91,10 @@ will be city-specific.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Do I need to fulfill any academic commitments to qualify for GEI?</summary>
+<summary>Do I need to fulfill any academic commitments to qualify for GEIP?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To work overseas for GEI, you need to meet all academic requirements of
-your institution.</p>
+<p>To work overseas for GEIP, you need to meet all academic requirements
+of your institution.</p>
 </div>
 </details>
 <details class="isomer-details">
