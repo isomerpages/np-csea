@@ -2,12 +2,12 @@ collections:
   student-programme:
     output: true
     order:
-      - Flexible Learning Pathway/Passion  PLP.md
-      - Flexible Learning Pathway/.keep
       - Overview.md
       - Overseas Internships/.keep
       - Overseas Internships/Global Entrepreneurial Internship Programme
         (GEIP).md
       - Overseas Internships/Domain Internships.md
       - Southeast Asia Immersion Leadership (SAIL).md
+      - Flexible Learning Pathway/.keep
+      - Flexible Learning Pathway/Passion  PLP.md
       - GEIP FAQ.md
