@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Companies.md
-      - GEIP CITIES.md
+      - Cities.md
       - PARTNERS.md
