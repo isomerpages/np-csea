@@ -19,9 +19,6 @@ sections:
         - title: Apply for DOMAIN
           description: ""
           url: ""
-        - title: Learn More
-          description: ""
-          url: /geip-overseas/
       variant: image
   - textcards:
       title: Our Stats
