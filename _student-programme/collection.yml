@@ -2,6 +2,7 @@ collections:
   student-programme:
     output: true
     order:
+      - Flexible Learning Pathway/Passion  PLP.md
       - Flexible Learning Pathway/.keep
       - Overview.md
       - Overseas Internships/.keep
