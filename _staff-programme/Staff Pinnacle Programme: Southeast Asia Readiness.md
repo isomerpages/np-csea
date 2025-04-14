@@ -42,50 +42,18 @@ Asia through curated visits and activities.
 </li>
 </ul>
 <h2><strong>Programme Options</strong></h2>
-<h3><strong>7-Day Twin-City Experience</strong></h3>
-<p>A concentrated introduction to two vibrant Southeast Asian business hubs.
-Engage with local businesses, educational institutions, and cultural experiences
-that will broaden your perspective on regional opportunities.</p>
-<h3><strong>3-Week Single-City Immersion</strong></h3>
-<p>Deepen your understanding of Southeast Asian business practices through
-an extended stay in one regional hub. This programme allows you to:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Strengthen school-based relationships in the region</p>
+<p><strong>7-Day Twin-City Experience</strong>
+</p>
 </li>
 <li>
-<p>Develop networks with potential partners</p>
+<p><strong>3-Week Single-City Immersion</strong>
+</p>
 </li>
 <li>
-<p>Integrate Southeast Asian business practices into teaching and learning</p>
-</li>
-<li>
-<p>Support NP's student internship initiatives in the region</p>
-</li>
-</ul>
-<h3><strong>5-Month Industry Attachment</strong></h3>
-<p>Our premier staff development opportunity places you directly within a
-Southeast Asian organization for genuine industry experience. This comprehensive
-programme enables you to:</p>
-<ul>
-<li>
-<p>Build expertise in Southeast Asian business practices</p>
-</li>
-<li>
-<p>Develop potential new regional partners for NP</p>
-</li>
-<li>
-<p>Identify growth opportunities for NP's presence in the region</p>
-</li>
-<li>
-<p>Cultivate strategic relationships with key stakeholders</p>
-</li>
-<li>
-<p>Champion NP's Southeast Asia initiatives upon your return</p>
-</li>
-<li>
-<p>Create meaningful integration of Southeast Asian perspectives into your
-teaching</p>
+<p><strong>5-Month Industry Attachment</strong>
+</p>
 </li>
 </ul>
 <h2><strong>Programme Outcomes</strong></h2>
