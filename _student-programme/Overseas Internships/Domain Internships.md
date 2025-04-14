@@ -5,91 +5,47 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Internships
 ---
-<p>The Overseas Domain Internship (OI) Program offers students the unique
-opportunity to gain hands-on experience in their chosen fields by working
-with companies across the globe. Our extensive network of corporate partners
-includes Multinational Corporations (MNCs), Small and Medium Enterprises
-(SMEs), Banks, Hotel Groups, and other leading organizations, providing
-students with the chance to immerse themselves in international work cultures
-and industry practices.</p>
-<hr>
-<h2><strong>WHAT WE OFFER</strong></h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSH.png">
-</div>
+<h2><strong>Domain Internships</strong></h2>
+<p>
+<br>Overseas Domain Internship connects students with prestigious global placement
+opportunities across diverse industries. Our extensive network of corporate
+partners includes multinational corporations, small and medium enterprises,
+financial institutions, hospitality groups, and other leading organizations.
+We carefully match each student's skills and career aspirations with companies
+that provide meaningful, hands-on professional experiences. These tailored
+placements enable students to develop industry-specific expertise, build
+international networks, and gain the competitive edge that comes from real-world
+global work experience.&nbsp;</p>
+<h2><strong>Application Requirements</strong></h2>
 <ul>
 <li>
-<p><strong>Global Exposure:</strong> Students are placed in well-established
-companies across a variety of sectors, providing invaluable international
-exposure.</p>
+<p>Open to Year 3 students undertaking their internship module</p>
 </li>
 <li>
-<p><strong>Tailored Internships:</strong> Through strong partnerships, we
-match students with companies that align with their academic background
-and career interests, ensuring a meaningful and productive internship experience.</p>
-</li>
-<li>
-<p><strong>Broad Industry Reach:</strong> Whether it’s finance, hospitality,
-engineering, or technology, our internships span multiple domains, offering
-diverse opportunities for students to hone their skills.</p>
-</li>
-</ul>
-<hr>
-<h2><strong>PLACEMENT PROCESS</strong></h2>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/interns.png">
-</div>
-<p>We collaborate with schools to identify placements that best match students’
-career goals. Schools continue to source companies and assign students,
-while CSEA facilitates connections and helps secure placements.</p>
-<p>It is recommended that schools negotiate a minimum stipend of S$300 per
-month to ensure fair compensation for students.</p>
-<p><strong>Our Role in Supporting Internships:</strong>
+<p>Complete online application at<a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>https://geip.np.edu.sg/</u></a>
 </p>
-<ul>
-<li>
-<p><strong>Building Connections:</strong> CSEA bridges the gap between schools
-and companies, fostering relationships that lead to successful internship
-placements.</p>
 </li>
 <li>
-<p><strong>Efficient Matching Process:</strong> We work closely with schools
-to match students with companies that align with their interests and ensure
-a valuable learning experience.</p>
+<p>Selected candidates will be invited for an interview to discuss motivations
+and career aspirations</p>
 </li>
 </ul>
-<hr>
-<h2><strong>VISA &amp; FUNDING SUPPORT</strong></h2>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Demo.png">
-</div>
+<h2><strong>Application Periods</strong></h2>
 <ul>
 <li>
-<p><strong>Visa Facilitation:</strong> CSEA will assist with the visa process
-for internships in cities like Jakarta, Bangkok, Ho Chi Minh City, Shanghai,
-Shenzhen, Beijing, and Hangzhou. For other locations, schools may seek
-visa support from the internship companies. It is essential that both schools
-and companies ensure students obtain the necessary visas to work legally
-in the respective countries.</p>
+<p><strong>Mid-April to Mid-May</strong>: For internships beginning in September</p>
 </li>
 <li>
-<p><strong>Funding Opportunities:</strong> Ngee Ann Polytechnic provides funding
-for internships in Southeast Asia, China, and India for students who qualify
-under the GRT or iPREP schemes. Singaporean and Singapore Permanent Residents
-(SPR) are eligible for GRT funding, while only Singaporean citizens qualify
-for iPREP funding.</p>
+<p><strong>Mid-October to Mid-November</strong>: For internships beginning
+in March the following year</p>
 </li>
 </ul>
-<p>CSEA is dedicated to providing students with real-world, international
-experience that prepares them for success in today’s globalized economy.</p>
-<p>NP will provide funding for all internships to South-East Asia, China
-and India for students who qualify for GRT/iPREP funding. Singaporean and
-SPR are eligible for GRT funding and Singaporean only for iPREP.</p>
+<h2><strong>Invest in Your Professional Future</strong></h2>
+<p>An overseas domain internship is more than just work experience—it's an
+investment in your future career success. Develop the global perspective
+and industry expertise that employers value.</p>
+<p><strong>For more information, contact your School Internship Coordinator or contact us at <a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">askcsea@np.edu.sg</a></strong>
+</p>
 <p>
 <br>
 </p>
