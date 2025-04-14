@@ -9,7 +9,4 @@ links:
   - title: PARTNERS & NETWORK
     collection: network
   - title: RESOURCES
-    url: /resources
-    sublinks:
-      - title: New submenu
-        url: /permalink
+    collection: resources
