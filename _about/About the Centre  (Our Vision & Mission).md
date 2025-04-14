@@ -11,7 +11,14 @@ and staff programs, strong industry partnerships, and thought leadership,
 we connect individuals and organizations to the dynamic Southeast Asian
 ecosystem.</p>
 <h2><strong>Vision &amp; Mission</strong></h2>
-<h3><strong>Our Vision:</strong> To be the leading hub for Southeast Asia-focused experiential learning and professional development.</h3>
+<p><strong>Our Vision:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To be the leading hub for Southeast Asia-focused experiential learning
+and professional development.</p>
+</li>
+</ul>
 <p><strong>Our Mission:</strong>
 </p>
 <ul>
