@@ -18,6 +18,9 @@ sections:
         - title: Apply for DOMAIN
           description: ""
           url: /overseas-domain-internship-program/
+        - title: Become a Partner
+          description: ""
+          url: /partners/
       variant: image
   - infocols:
       title: Why You Should Apply ?
