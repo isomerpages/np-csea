@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Overseas Internships/GEIP FAQ.md
       - Overseas Internships/.keep
       - Overseas Internships/Global Entrepreneurial Internship Programme
         (GEIP).md
