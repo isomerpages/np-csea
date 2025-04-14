@@ -17,7 +17,7 @@ sections:
           url: https://www.geip.np.edu.sg/
         - title: Apply for DOMAIN
           description: ""
-          url: ""
+          url: /overseas-domain-internship-program/
       variant: image
   - textcards:
       title: Our Stats
