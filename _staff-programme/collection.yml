@@ -2,6 +2,8 @@ collections:
   staff-programme:
     output: true
     order:
+      - "Staff Pinnacle Programme/Staff Programme: Southeast Asia
+        ReadinessExample Title.md"
       - Staff Pinnacle Programme/.keep
       - Staff Pinnacle Programme/7 Day Twin City Experience.md
       - Staff Pinnacle Programme/3 Week Single City Immersion.md
