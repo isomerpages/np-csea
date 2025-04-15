@@ -18,9 +18,9 @@ sections:
         - title: Apply for DOMAIN
           description: ""
           url: /overseas-domain-internship-program/
-        - title: Become a Partner
+        - title: Sign up for upcoming event
           description: ""
-          url: /partners/
+          url: ""
       variant: image
   - infocols:
       title: Why You Should Apply ?
