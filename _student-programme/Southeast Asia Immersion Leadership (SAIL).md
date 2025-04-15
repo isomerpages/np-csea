@@ -9,6 +9,11 @@ description: southeast asia immersion leadership
 </p>
 <p>The <strong>Southeast Asia Immersion Leadership (SAIL) Programme</strong> is
 a prestigious award programme designed to <strong>cultivate a new generation of leaders with a deep understanding of the region</strong>.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAIL/SAIL003.jpg">
+</div>
 <h4><strong>Key Features:</strong></h4>
 <ul>
 <li>

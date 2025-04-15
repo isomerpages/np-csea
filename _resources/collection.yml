@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - FAQ.md
-      - Application Portal.md
       - Apply.md
