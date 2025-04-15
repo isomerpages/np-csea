@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Center for Southeast Asia
       subtitle: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
-      background: /images/SAIL/SAIL.jpg
+      background: /images/SAIL/SAIL001.jpg
       key_highlights:
         - title: Apply For GEIP
           description: ""
