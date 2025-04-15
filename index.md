@@ -20,7 +20,7 @@ sections:
           url: /overseas-domain-internship-program/
         - title: Sign up for upcoming event
           description: ""
-          url: ""
+          url: https://form.gov.sg/67fe06d2f53b12b2f27742d0
       variant: image
   - announcements:
       title: Upcoming Events
@@ -33,8 +33,8 @@ sections:
             all—from culture shocks to making lifelong buds abroad! Get tips,
             laughs & inspo for your own adventure!  🗓️ 7 May (Wed) | 🕔 5–6:30
             PM | 📍 LT58A, NP
-          link_text: ""
-          link_url: ""
+          link_text: Sign up here
+          link_url: https://form.gov.sg/67fe06d2f53b12b2f27742d0
   - infocols:
       title: Why You Should Apply ?
       id: infocols
