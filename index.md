@@ -22,6 +22,19 @@ sections:
           description: ""
           url: ""
       variant: image
+  - announcements:
+      title: Upcoming Events
+      id: announcements
+      subtitle: Watch this space for
+      announcement_items:
+        - title: Overseas Internship? Is it for me?
+          date: 07 May 2025
+          announcement: Join our chill fireside sesh with alumni & pros who’ve done it
+            all—from culture shocks to making lifelong buds abroad! Get tips,
+            laughs & inspo for your own adventure!  🗓️ 7 May (Wed) | 🕔 5–6:30
+            PM | 📍 LT58A, NP
+          link_text: ""
+          link_url: ""
   - infocols:
       title: Why You Should Apply ?
       id: infocols
