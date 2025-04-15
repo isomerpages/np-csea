@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - About the Centre  (Our Vision & Mission).md
+      - Our Team.md

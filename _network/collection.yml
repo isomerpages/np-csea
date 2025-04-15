@@ -1,0 +1,7 @@
+collections:
+  network:
+    output: true
+    order:
+      - Companies.md
+      - Cities.md
+      - Partners.md

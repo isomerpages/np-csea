@@ -1,0 +1,19 @@
+collections:
+  countries:
+    output: true
+    order:
+      - Silicon Valley.md
+      - Sydney.md
+      - London.md
+      - Helsinki.md
+      - Yogyakarta.md
+      - Manila.md
+      - Hong Kong.md
+      - Hangzhou.md
+      - Singapore.md
+      - Jakarta.md
+      - Shanghai.md
+      - Shenzhen.md
+      - Beijing.md
+      - Ho Chi Minh City.md
+      - Bangkok.md

@@ -1,12 +1,67 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
-
 ### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+Do you have questions about the programme? Find out more through the answers below or send your question to **[askgia@np.edu.sg](mailto:Askgia@np.edu.sg).**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+**1) I want to go for GEI! How do I know if I qualify?**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+There are usually two rounds of application for March and September internship semesters. All eligible students from polytechnics and autonomous universities are welcome to apply for GEI. If you are not a student at Ngee Ann Polytechnic, please check with your institution or email us to inquire about eligibility.
+
+Students who are self-starters, who are open to learning from startups, and have evidence of their interest in entrepreneurship are welcome to apply!
+
+**2) Can anyone apply for GEI?**
+
+The internship programme is open to all students who are Singaporeans and Singapore Permanent Residents. Please check with your institution or email us if you are interested. 
+
+**3) Can I choose the country/company I wish to intern in?**
+
+While we seek to ensure you are comfortable in the country you are placed in, GIA and our partner company will make the final decision. You will be assessed whether you are a fit for the company and what they require in an intern. Shortlisted applicants need to go through a first round of interview with GIA. This is followed by interviews with the overseas companies GIA has allocated you to, tentatively based on your skillsets and soft skills displayed at the first round of interview.
+
+A tentative allocation does not equal a confirmed placement. Students will still have to secure interviews with the overseas company.
+
+**4) Do I need to take my academic school’s internship and take GEI if I am selected?**
+
+Our internship replaces your school’s internship module.
+
+**5) I know I may need to write reports as part of my internship. If I am confirmed, who do I submit my internship reports to?**
+
+  
+You will submit your academic internship report to your school internship supervisor. If there are additional assessments required by GIA, you will be informed by your Country Manager.
+
+**6) Are students on the programme offered any subsidies or allowances?**
+
+The subsidy offered will depend on your institution. Depending on the city and company you intern at, the structures will differ. More details will be provided to you once you are confirmed for the programme.  
+  
+For students at Ngee Ann Polytechnic, you will be supported with a generous grant that covers your flight, visa and accommodation for your internship duration. 
+
+**7) Can I use the Post-Secondary Education Account (PSEA) to fund my living expenses for GEI?**
+
+PSEA cannot be used to support your expenses.
+
+**8) How much will I get for my monthly allowance?**
+
+You will given a monthly allowance that is sufficient for the duration of your overseas internship. Every city has different living standards and each company pays interns different allowance rates. Your monthly allowance will be city-specific.
+
+**9) Do I need to fulfill any academic commitments to qualify for GEI?**
+
+To work overseas for GEI, you need to meet all academic requirements of your institution.
+
+**10)Will I get any funding support for the overseas internship programme?**
+
+Yes! There will be funding support provided depending on the type of internship programme that you are on. **Global Ready Talent Programme by Enterprise Singapore funds part of the funding support available to you, your institution might top up additional funding support as well.**
+
+As part of the GRT overseas allowance, students will receive:
+
+*   a one-time travel allowance of S$1200, and
+    
+*   an additional subsistence allowance of S$32.90 per day  
+      
+    More details of funding support will be provided to you by your institution during internship briefing. The grant provided will be sufficient to cover cost of your visa application, flight as well as basic accommodation. However, please be aware that the provided funding may not cover ALL your expenses. You will need to top up the difference based on your personal lifestyle and living habits. We encourage you to budget accordingly and plan your finances to ensure a smooth and enjoyable internship experience.
+		
+**11)I'm from the Diploma of Nursing / Early Childhood Development & Education. Can I apply for overseas internships?**
+
+Unfortunately, no. As your diploma will enable you to graduate as a registered nurse or early childhood educator in Singapore, you will be required to fulfil **practice-oriented training/ clinical training in** practicum attachments locally to apply what you have learnt from the courses.

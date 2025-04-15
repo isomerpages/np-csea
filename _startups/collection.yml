@@ -1,0 +1,16 @@
+collections:
+  startups:
+    output: true
+    order:
+      - Sector SG.md
+      - Soosh.md
+      - SocialLive.md
+      - Pawfoo.md
+      - FATFreq.md
+      - Imaginary Films.md
+      - Drivewise Autoparts.md
+      - Alphaese.md
+      - Vessels.md
+      - SG Tutoring.md
+      - Curatable Co.md
+      - Carbon.md
