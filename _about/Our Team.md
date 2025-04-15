@@ -52,10 +52,10 @@ in business education and corporate finance</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Shareeda Morrison</div>
-<div class="isomer-card-description">Shareeda Morrison, Country Head, Vietnam A certified Knowdell Career Advisor
-with a strong media and advertising background, Shareeda oversees overseas
-internships in Vietnam and is passionate about creating opportunities with
-leading companies that align with students' career goals.</div>
+<div class="isomer-card-description">Shareeda is the Country Head (Vietnam), where she manages overseas internships
+and supports signature programmes. She brings prior experience in advertising
+and media, and is passionate about connecting students and staff with real-world
+opportunities in Southeast Asia.</div>
 <div class="isomer-card-link">LinkedIn</div>
 </div>
 </a>
@@ -81,6 +81,10 @@ innovation, she fosters strategic collaborations across Asia. .</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Gordon Ho</div>
+<div class="isomer-card-description">Gordon Ho Gordon Ho is the Country Head (Thailand) at Ngee Ann Polytechnic.
+He’s a current board member of the Singapore-Thai Chamber of Commerce.
+He has 8 years’ experience in Corporate Compliance and sales, he is pursuing
+an MSc at Chulalongkorn University.</div>
 </div>
 </div>
 </div>
