@@ -31,3 +31,7 @@ teaching</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Pinacle/Staff_Pinnacle_006.jpg">
+</div>
+<p></p>
