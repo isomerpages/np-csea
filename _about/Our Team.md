@@ -104,7 +104,7 @@ an MSc at Chulalongkorn University.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Norhidayu Kadir" src="/images/About/Ayu_DP_Full.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Norhidayu Kadir" src="/images/About/Ayu_DP_Crop.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
