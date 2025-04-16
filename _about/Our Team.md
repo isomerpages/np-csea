@@ -11,7 +11,7 @@ experienced educators, industry professionals, and passionate advocates
 of Southeast Asian talent development.</p>
 <h2>Management</h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/pin-fen-fong-a33889b3/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fong Pin Fen" src="/images/About/Fong_Pin_Fen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fong Pin Fen</div><div class="isomer-card-description">Fong Pin Fen Director, Centre for Southeast Asia Pin Fen brings over 13 years of leadership at Singapore’s EDB, driving initiatives in consumer markets, advanced manufacturing, and infrastructure. She is committed to fostering cross-border collaboration and developing global-ready talents.</div><div class="isomer-card-link">LinkedIn</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Anna Yeow" src="/images/About/About1.png">
@@ -23,9 +23,8 @@ of Southeast Asian talent development.</p>
 the founding team that launched GEIP. Passionate about innovation and talent
 development, she helps students and startups navigate Southeast Asia’s
 dynamic business landscape.</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
