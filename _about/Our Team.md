@@ -98,6 +98,10 @@ MSc at Chulalongkorn University.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Amanda Chong</div>
+<div class="isomer-card-description">With 18 years of teaching and strong admin skills, she serves as an Admin
+Manager, blending academic leadership with operational excellence. She
+has led international exposure and internship programs, giving students
+valuable learning experiences across Southeast Asia and China</div>
 </div>
 </div>
 <div class="isomer-card">
