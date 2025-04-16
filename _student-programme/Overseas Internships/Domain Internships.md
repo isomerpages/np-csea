@@ -22,8 +22,7 @@ global work experience.&nbsp;</p>
 <p>Open to Year 3 students undertaking their internship module</p>
 </li>
 <li>
-<p>Complete online application at<a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>https://geip.np.edu.sg/</u></a>
-</p>
+<p>Complete online application <a href="https://forms.office.com/r/QvUGCrZHmB" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Selected candidates will be invited for an interview to discuss motivations
