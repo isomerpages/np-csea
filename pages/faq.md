@@ -5,7 +5,7 @@ variant: markdown
 ---
 ### **FAQ**
 
-Do you have questions about the programme? Find out more through the answers below or send your question to **[askgia@np.edu.sg](mailto:Askgia@np.edu.sg).**
+Do you have questions about the programme? Find out more through the answers below or send your question to **[askcsea@np.edu.sg](mailto:askcsea@np.edu.sg).**
 
 **1) I want to go for GEI! How do I know if I qualify?**
 
