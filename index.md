@@ -76,4 +76,11 @@ sections:
       url: https://www.np.edu.sg/
       image: /images/Logos/NP_Logo_Full_Colour_Vertical.png
       alt: Ngee Ann Polytechnic
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
