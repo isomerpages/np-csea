@@ -57,5 +57,5 @@ offer</p>
 </div>
 </details>
 </div>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 35%;" height="auto" width="100%" alt="Click to Apply for GEIP" src="/images/Apply_Now.png"></a>
 <p></p>
