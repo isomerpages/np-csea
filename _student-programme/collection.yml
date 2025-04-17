@@ -2,11 +2,11 @@ collections:
   student-programme:
     output: true
     order:
-      - Overseas Internships/Placement Process.md
       - Overseas Internships/.keep
       - Overseas Internships/Global Entrepreneurial Internship Programme
         (GEIP).md
       - Overseas Internships/Domain Internships.md
+      - Overseas Internships/Placement Process.md
       - Overseas Internships/GEIP & Domain FAQ.md
       - Southeast Asia Immersion Leadership (SAIL).md
       - Flexible Learning Pathway/.keep
