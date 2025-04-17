@@ -2,9 +2,9 @@ collections:
   student-programme:
     output: true
     order:
-      - SAIL/SAIL FAQ.md
-      - SAIL/Southeast Asia Immersion Leadership (SAIL).md
       - SAIL/.keep
+      - SAIL/Southeast Asia Immersion Leadership (SAIL).md
+      - SAIL/SAIL FAQ.md
       - Overseas Internships/.keep
       - Overseas Internships/Global Entrepreneurial Internship Programme
         (GEIP).md
