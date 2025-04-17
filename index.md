@@ -68,4 +68,12 @@ sections:
           description: ""
           linktext: Learn more
           url: /companies/
+  - infopic:
+      title: Ngee Ann Polytechnic
+      subtitle: Managed by
+      id: infopic
+      button: Website
+      url: https://www.np.edu.sg/
+      image: /images/Logos/NP_Logo_Full_Colour_Vertical.png
+      alt: Ngee Ann Polytechnic
 ---
