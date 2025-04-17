@@ -71,7 +71,7 @@ sections:
   - infopic:
       subtitle: "A programme by:"
       id: infopic
-      image: /images/Logos/enterprise_singapore_full_colour_logo.svg
+      image: /images/Your_paragraph_text.png
   - infopic:
       title: Ngee Ann Polytechnic
       subtitle: Managed by
