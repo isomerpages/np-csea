@@ -69,6 +69,10 @@ sections:
           linktext: Learn more
           url: /companies/
   - infopic:
+      subtitle: "A programme by:"
+      id: infopic
+      image: /images/Logos/enterprise_singapore_full_colour_logo.svg
+  - infopic:
       title: Ngee Ann Polytechnic
       subtitle: Managed by
       id: infopic
@@ -76,11 +80,4 @@ sections:
       url: https://www.np.edu.sg/
       image: /images/Logos/NP_Logo_Full_Colour_Vertical.png
       alt: Ngee Ann Polytechnic
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
