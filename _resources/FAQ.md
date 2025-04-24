@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Do you have questions about the programme? Find out more through the answers
-below or send your question to <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg</u></a>.</strong>
+below or send your question to <strong><a href="mailto:csea_overseasint@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>csea_overseasint@connect.np.edu.sg</u></a>.</strong>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -91,7 +91,7 @@ will be city-specific.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Do I need to fulfill any academic commitments to qualify for GEIP?</summary>
+<summary>Do I need to fulfil any academic commitments to qualify for GEIP?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To work overseas for GEIP, you need to meet all academic requirements
 of your institution.</p>
