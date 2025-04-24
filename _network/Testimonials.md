@@ -4,7 +4,7 @@ permalink: /testimonials/
 variant: tiptap
 description: ""
 ---
-<p>Through GEI, students have benefitted first-hand from experiencing startup
+<p>Through GEIP, students have benefitted first-hand from experiencing startup
 life, applying their skills and talents in real work, and broadening their
 perspectives on entrepreneurship through immersion in cultures across the
 world.</p>
@@ -328,6 +328,39 @@ entrepreneurial spirit of the Thais.</p>
 and digital marketing analytics for brands such as La Roche Posay and Vichy
 on online platforms. Through working with global clients and local sales
 channels, I learnt to tailor business strategies for the Vietnamese market.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Chua Qi Jia Adam (</strong>GEIP China, 03/2024)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><em>“During my internship with TechNode, I had the opportunity to be part of BEYOND Expo in Macao - Asia’s leading tech expo. One key lesson I’ll carry with me: innovation isn’t just about ideas - it’s about bringing people together.”</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Sakin Khan (</strong>GEIP Ho Chi Minh 09/2024<strong>)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><em>“Vietnam has&nbsp;a booming start-up scene. Working (in Vietnam) is a good chance to network with</em>
+</p>
+<p><em>entrepreneurs, (startup) founders, and businesses”</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Yu Wei ( </strong>GEIP Bangkok, 09/2023<strong>)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><em>“BKK GEIP was by far the most fun period of my life with the freedom and independence. Truly an eye-opening experience,If you’re looking for adventure and insightful learning, Thailand definitely ranks top of my list”</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Tan Yi Xuan (</strong>GEIP Jakarta, 09/2024<strong>)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><em>My time at BLOCK71 Jakarta during the GEIP programme was a pivotal chapter in my growth. Being immersed in the startup ecosystem allowed me to strengthen my adaptability and deepen my understanding of Southeast Asia’s innovation landscape.</em>
+</p>
 </div>
 </details>
 </div>
