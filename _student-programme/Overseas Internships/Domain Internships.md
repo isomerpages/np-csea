@@ -43,8 +43,9 @@ in March the following year</p>
 <p>An overseas domain internship is more than just work experience—it's an
 investment in your future career success. Develop the global perspective
 and industry expertise that employers value.</p>
-<p><strong>For more information, contact your School Internship Coordinator or contact us at <a href="mailto:askcsea@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">askcsea@np.edu.sg</a>.</strong>
+<p><strong>For more information, contact your School Internship Coordinator or contact us at <a href="mailto:csea_overseasint@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">csea_overseasint@connect.np.edu.sg </a></strong>
 </p>
+<p></p>
 <p>
 <br>
 </p>

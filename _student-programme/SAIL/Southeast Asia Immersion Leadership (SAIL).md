@@ -3,6 +3,7 @@ title: Southeast Asia Immersion Leadership (SAIL)
 permalink: /sail/
 variant: tiptap
 description: southeast asia immersion leadership
+third_nav_title: SAIL
 ---
 <h3><strong>SAIL: Southeast Asia Immersion Leadership Programme</strong></h3>
 <p><strong>Developing Future-Ready Leaders in Southeast Asia</strong>
@@ -31,15 +32,15 @@ and sustainable urban solutions.
 </p>
 </li>
 <li>
-<p><strong>Hackathon Challenge</strong>: Collaborate with international peers
-to develop innovative solutions.
+<p><strong>Sail Quest</strong>: Collaborate with international peers to develop
+innovative solutions.
 <br>
 <br>
 </p>
 </li>
 <li>
-<p><strong>Industry Networking</strong>: Engage with business and community
-leaders across the region.
+<p><strong>Sail Spotlight</strong>: Engage with business and community leaders
+across the region.
 <br>
 <br>
 </p>
@@ -49,7 +50,7 @@ leaders across the region.
 </p>
 <ul>
 <li>
-<p>Strong interest in Southeast Asia (prior OIP/YEP participation preferred).
+<p>Strong interest in Southeast Asia (prior OIP/YEP participation required).
 <br>
 <br>
 </p>
@@ -61,7 +62,7 @@ leaders across the region.
 </p>
 </li>
 <li>
-<p>Successful completion of a selection interview.
+<p>Applicants who pass the interview will be eligible to join.
 <br>
 <br>
 </p>
