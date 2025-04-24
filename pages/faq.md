@@ -5,7 +5,7 @@ variant: markdown
 ---
 ### **FAQ**
 
-Do you have questions about the programme? Find out more through the answers below or send your question to **[askcsea@np.edu.sg](mailto:askcsea@np.edu.sg).**
+Do you have questions about the programme? Find out more through the answers below or send your question to **[csea_overseasint@connect.np.edu.sg](mailto:csea_overseasint@connect.np.edu.sg).**
 
 **1) I want to go for Overseas Internship! How do I know if I qualify?**
 
