@@ -2,7 +2,6 @@ collections:
   student-programme:
     output: true
     order:
-      - Testimonials.md
       - Overseas Internships/.keep
       - Overseas Internships/Global Entrepreneurial Internship Programme
         (GEIP).md
@@ -15,3 +14,4 @@ collections:
       - Flexible Learning Pathway/.keep
       - Flexible Learning Pathway/Passion  PLP.md
       - Flexible Learning Pathway/Passion PLP FAQ.md
+      - Testimonials.md
