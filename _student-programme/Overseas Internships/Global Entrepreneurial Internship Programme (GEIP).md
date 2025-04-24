@@ -88,7 +88,7 @@ skills required in startup environments.</p>
 <p>Collateral Creation</p>
 </li>
 <li>
-<p>GEI Bonding Camp</p>
+<p>GEIP Bonding Camp</p>
 </li>
 <li>
 <p>Language Class</p>
