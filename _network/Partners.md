@@ -4,7 +4,7 @@ permalink: /partners/
 variant: tiptap
 description: ""
 ---
-<p>Through partnering with innovation hubs around the world, GEI provides
+<p>Through partnering with innovation hubs around the world, GEIP provides
 students with internship opportunities to experience life in vibrant startup
 ecosystems abroad.</p>
 <p></p>
@@ -19,7 +19,7 @@ ecosystems abroad.</p>
 </div>
 <hr>
 <h2><strong>GEI INTERNS BRING NEW PERSPECTIVES</strong></h2>
-<p>GEI offers the unique Entrepreneurial Development Programme for interns
+<p>GEIP offers the unique Entrepreneurial Development Programme for interns
 to have opportunities to attend customised workshops at different stages
 of their internship journey and pick-up the skills required in startup
 environments.</p>
@@ -34,7 +34,7 @@ endeavours.</p>
 <details class="isomer-details">
 <summary>Step 1 - Email us to introduce your startup</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Email to - <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg</u></a></strong>
+<p>Email to - <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg </u></a></strong>
 </p>
 </div>
 </details>
