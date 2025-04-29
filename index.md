@@ -20,7 +20,7 @@ sections:
           url: https://forms.office.com/r/QvUGCrZHmB
         - title: Apply for SAIL
           description: ""
-          url: ""
+          url: https://forms.office.com/r/W2SqKmja6B?origin=QRCode&qrcodeorigin=presentation
         - title: Sign up for upcoming event
           description: ""
           url: https://form.gov.sg/67fe06d2f53b12b2f27742d0
