@@ -5,7 +5,8 @@ description: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
 image: /images/Logos/CSEA_LL1_FULL_COLOUR_LIGHT_BG_CMYK.png
 permalink: /
 notification: Gain global 🌍 experience and stand out. Apply Now! Applications
-  close on 11 May 2025 (2359).
+  for GEIP and DOMAIN close on 11 May 2025 (2359). Applications for SAIL close
+  on 4 May 2025(2359)
 sections:
   - hero:
       title: Center for Southeast Asia
