@@ -4,41 +4,17 @@ title: Center for Southeast Asia
 description: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
 image: /images/Logos/CSEA_LL1_FULL_COLOUR_LIGHT_BG_CMYK.png
 permalink: /
-notification: Gain global 🌍 experience and stand out. Apply Now! Applications
-  for SAIL close on 4 May 2025(2359), GEIP and DOMAIN close on 11 May 2025
-  (2359).
+notification: ""
 sections:
   - hero:
       title: Center for Southeast Asia
       subtitle: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
       background: /images/SAIL/SAIL001.jpg
-      key_highlights:
-        - title: Apply For GEIP
-          description: ""
-          url: https://www.geip.np.edu.sg/
-        - title: Apply for DOMAIN
-          description: ""
-          url: https://forms.office.com/r/QvUGCrZHmB
-        - title: Apply for SAIL
-          description: ""
-          url: https://forms.office.com/r/W2SqKmja6B?origin=QRCode&qrcodeorigin=presentation
-        - title: Sign up for upcoming event
-          description: ""
-          url: https://form.gov.sg/67fe06d2f53b12b2f27742d0
       variant: image
   - announcements:
       title: Upcoming Events
       id: announcements
       subtitle: Watch this space for
-      announcement_items:
-        - title: Overseas Internship? Is it for me?
-          date: 07 May 2025
-          announcement: Join our chill fireside sesh with alumni & pros who’ve done it
-            all—from culture shocks to making lifelong buds abroad! Get tips,
-            laughs & inspo for your own adventure!  🗓️ 7 May (Wed) | 🕔 5–6:30
-            PM | 📍 LT58A, NP
-          link_text: Sign up here
-          link_url: https://form.gov.sg/67fe06d2f53b12b2f27742d0
   - infocols:
       title: Why You Should Apply ?
       id: infocols
