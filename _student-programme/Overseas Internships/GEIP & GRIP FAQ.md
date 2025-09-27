@@ -1,6 +1,6 @@
 ---
-title: GEIP & Domain FAQ
-permalink: /geip-domain-faq/
+title: GEIP & GRIP FAQ
+permalink: /faqs/
 variant: tiptap
 description: ""
 third_nav_title: Overseas Internships

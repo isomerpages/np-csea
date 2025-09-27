@@ -1,0 +1,51 @@
+---
+title: Global Ready Internship Programme (GRIP)
+permalink: /grip/
+variant: tiptap
+description: Global Ready Internship Programme
+third_nav_title: Overseas Internships
+---
+<h2><strong>Global Ready Internship Programme (GRIP)</strong></h2>
+<p>
+<br>Global Ready Internship Programme connects students with prestigious global
+internship opportunities across diverse industries. Our extensive network
+of corporate partners includes multinational corporations, large local
+corporations, small and medium enterprises, financial institutions, hospitality
+groups, and other leading organizations. We carefully match each student's
+skills and career aspirations with companies that provide meaningful, hands-on
+professional experiences. These tailored internship roles enable students
+to develop industry-specific expertise, build international networks, and
+gain the competitive edge that comes from real-world global work experience.&nbsp;</p>
+<h2><strong>Application Requirements</strong></h2>
+<ul>
+<li>
+<p>Open to Year 3 students undertaking their internship module</p>
+</li>
+<li>
+<p>Complete online application <a href="https://forms.office.com/r/QvUGCrZHmB" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+<li>
+<p>Selected candidates will be invited for an interview to discuss motivations
+and career aspirations</p>
+</li>
+</ul>
+<h2><strong>Application Periods</strong></h2>
+<ul>
+<li>
+<p><strong>Mid-April to Mid-May</strong>: For internships beginning in September</p>
+</li>
+<li>
+<p><strong>Mid-October to Mid-November</strong>: For internships beginning
+in March the following year</p>
+</li>
+</ul>
+<h2><strong>Invest in Your Professional Future</strong></h2>
+<p>GRIP is more than just work experience—it's an investment in your future
+career success. Develop the global perspective, international network and
+industry expertise that employers value.</p>
+<p><strong>For more information, contact your School Internship Coordinator or contact us at <a href="mailto:csea_overseasint@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">csea_overseasint@connect.np.edu.sg</a></strong>
+</p>
+<p></p>
+<p>
+<br>
+</p>
