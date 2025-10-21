@@ -20,7 +20,7 @@ sections:
           announcement: Applications close November 3 by 12 PM — don’t wait!
           link_text: 📲 Submit your application online!
           link_url: https://for.edu.sg/overseasinternshipapplication
-        - title: Book a 1 on 1 session with an Education and Career Coach
+        - title: ✨ Ready to Level Up Your Resume & Career Path?
           date: 21 October 2025
           announcement: Book a 1 on 1 session with an Education and Career Coach
           link_text: Click here to book !!!
