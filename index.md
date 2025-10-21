@@ -12,9 +12,14 @@ sections:
       background: /images/Media__15_.jpg
       variant: image
   - announcements:
-      title: Upcoming Events
+      title: Announcements
       id: announcements
-      subtitle: Watch this space for
+      announcement_items:
+        - title: Overseas Internship Application Open
+          date: 21 October 2025
+          announcement: Applications close November 3 by 12 PM — don’t wait!
+          link_text: 📲 Submit your application online!
+          link_url: https://for.edu.sg/overseasinternshipapplication
   - infocols:
       title: Why You Should Apply ?
       id: infocols
