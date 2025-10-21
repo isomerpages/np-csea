@@ -20,6 +20,13 @@ sections:
           announcement: Applications close November 3 by 12 PM — don’t wait!
           link_text: 📲 Submit your application online!
           link_url: https://for.edu.sg/overseasinternshipapplication
+        - title: "Alumni Exchange: “Overseas Internship – Is it for me?”"
+          date: 30 October 2025
+          announcement: Hear from NP students who’ve just returned from HCMC, Jakarta,
+            Bangkok, and Shanghai. Real talk, no filters.   📅 Thursday, October
+            30 🕔 5pm – 8pm 📍 LT58A
+          link_text: Register now!!!
+          link_url: https://form.gov.sg/68e31c15f3619854571a130e
   - infocols:
       title: Why You Should Apply ?
       id: infocols
