@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Center for Southeast Asia
       subtitle: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
-      background: /images/SAIL/SAIL001.jpg
+      background: /images/Media__15_.jpg
       variant: image
   - announcements:
       title: Upcoming Events
