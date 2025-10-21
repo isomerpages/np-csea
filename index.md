@@ -27,6 +27,11 @@ sections:
             30 🕔 5pm – 8pm 📍 LT58A
           link_text: Register now!!!
           link_url: https://form.gov.sg/68e31c15f3619854571a130e
+        - title: Applications Closing Day
+          date: 03 November 2025
+          announcement: Registration closes at 12PM !!!
+          link_text: 📲 Submit your application online BEFORE 12PM
+          link_url: https://for.edu.sg/overseasinternshipapplication
   - infocols:
       title: Why You Should Apply ?
       id: infocols
