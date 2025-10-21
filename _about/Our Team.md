@@ -72,20 +72,6 @@ A strong advocate for cross-cultural learning, global citizenship, and
 innovation, she fosters strategic collaborations across Asia. .</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gordon Ho" src="/images/About/About4.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Gordon Ho</div>
-<div class="isomer-card-description">Gordon Ho is the Country Head (Thailand) at Ngee Ann Polytechnic. He’s
-a current board member of the Singapore-Thai Chamber of Commerce. He has
-8 years’ experience in Corporate Compliance and sales, he is pursuing an
-MSc at Chulalongkorn University.</div>
-</div>
-</div>
 </div>
 <p></p>
 <h2>Administrative Team</h2>
