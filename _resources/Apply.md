@@ -62,7 +62,7 @@ offer</p>
 <p></p>
 <p>Please upload a <strong>text version of your resume</strong> in the online
 application. <strong>Do not use an image file</strong>, as you may experience
-delays. If you encounter any issues, please email <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg </u></a></strong>
-</p><a class="isomer-image-wrapper" href="https://www.geip.np.edu.sg/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
+delays. If you encounter any issues, please email <strong><a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>askcsea@np.edu.sg</u></a></strong>
+</p><a class="isomer-image-wrapper" href="https://for.edu.sg/overseasinternshipapplication"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Apply_Now.png"></a>
 <p></p>
 <p></p>
