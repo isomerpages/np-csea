@@ -9,29 +9,28 @@ sections:
   - hero:
       title: Center for Southeast Asia
       subtitle: "Broaden Your World, Boost Your Career: Intern in Southeast Asia!"
-      background: /images/Media__15_.jpg
-      variant: image
+      background: /images/afda84fe_954d_4768_9b48_2278b44911a0.jpg
+      variant: center
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
         - title: Overseas Internship Application Open
-          date: 21 October 2025
-          announcement: Applications close November 3 by 12 PM — don’t wait!
+          date: 20 April 2026
+          announcement: Applications close 4 May by 23:59PM — don’t wait!
           link_text: 📲 Submit your application online!
-          link_url: https://for.edu.sg/overseasinternshipapplication
+          link_url: https://forms.cloud.microsoft/pages/responsepage.aspx?id=FeGpyxYwYkShq6Vly6DN8dMxZ8amIwFJunv335JjAhNUNEIzMjdMS1kyR1FSRVFRSEgyT0dIMDhUUC4u&route=shorturl
+        - title: "Alumni Exchange: “Overseas Internship – Is it for me?”"
+          date: 16 April 2026
+          announcement: "Date: 29 April, Wednesday Time: 5pm - 6.45pm Venue: LT68E, Ngee
+            Ann Polytechnic, Convention Centre"
+          link_text: Register now!!!
+          link_url: https://form.gov.sg/69ca3c16938a2624a9074c7a
         - title: ✨ Ready to Level Up Your Resume & Career Path?
-          date: 21 October 2025
+          date: 20 April 2026
           announcement: Book a 1 on 1 session with an Education and Career Coach
           link_text: Click here to book !!!
           link_url: https://for.edu.sg/npecgbooking
-        - title: "Alumni Exchange: “Overseas Internship – Is it for me?”"
-          date: 30 October 2025
-          announcement: Hear from NP students who’ve just returned from HCMC, Jakarta,
-            Bangkok, and Shanghai. Real talk, no filters.   📅 Thursday, October
-            30 🕔 5pm – 8pm 📍 LT58A
-          link_text: Register now!!!
-          link_url: https://form.gov.sg/68e31c15f3619854571a130e
         - title: Applications Closing Day
           date: 03 November 2025
           announcement: Registration closes at 12PM !!!
