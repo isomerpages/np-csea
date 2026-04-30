@@ -22,7 +22,7 @@ gain the competitive edge that comes from real-world global work experience.&nbs
 <p>Open to Year 3 students undertaking their internship module</p>
 </li>
 <li>
-<p>Complete online application <a href="https://for.edu.sg/overseasinternshipapplication" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Complete online application <a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=FeGpyxYwYkShq6Vly6DN8dMxZ8amIwFJunv335JjAhNUNEIzMjdMS1kyR1FSRVFRSEgyT0dIMDhUUC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Selected candidates will be invited for an interview to discuss motivations
